@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MPU9255.dra                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Fri Jul 29 20:29:11 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/MPU9255-QFN/MPU9255/MPU9255_Allegro
+    Name      = mpu9255.psm
+    User      = DaQi
+    Machine   = DESKTOP-5QD1SMV
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

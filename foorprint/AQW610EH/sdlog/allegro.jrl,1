@@ -1,0 +1,108 @@
+\t (00:00:46) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:46)     Journal start - Tue Apr 18 16:17:22 2017
+\t (00:00:46)         Host=DAQI-PC User=DaQi Pid=10804 CPUs=4
+\t (00:00:46) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:46) 
+\d (00:00:46) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/AQW610EH/AQW610EH.dra
+\i (00:00:46) generaledit 
+\i (00:03:16) pick grid 4.5122 3.4959
+\t (00:03:16) last pick:  4.5100 3.5000
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in 3.0488 0.8537
+\i (00:03:17) trapsize 1016
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in -3.4756 0.8537
+\i (00:03:17) trapsize 508
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out -3.5569 0.8944
+\i (00:03:17) trapsize 1016
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out -3.6992 0.8943
+\i (00:03:17) trapsize 2033
+\i (00:03:21) show measure 
+\i (00:03:24) setwindow form.find
+\i (00:03:24) FORM find all_off  
+\i (00:03:25) FORM find pins YES 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) pick grid -0.3659 0.1626
+\t (00:03:27) last pick:  -0.3700 0.1600
+\i (00:03:29) pick grid 8.0081 0.0813
+\t (00:03:29) last pick:  8.0100 0.0800
+\i (00:06:14) prepopup 11.5041 3.7398
+\i (00:06:15) done 
+\i (00:06:15) generaledit 
+\i (00:06:18) move 
+\t (00:06:18) Select element(s) to move.
+\i (00:06:21) setwindow form.find
+\i (00:06:21) FORM find all_off  
+\i (00:06:22) FORM find pins YES 
+\i (00:06:23) setwindow pcb
+\i (00:06:23) drag_start grid -2.1138 1.2602
+\i (00:06:24) drag_stop 2.3171 -8.7398
+\i (00:06:26) move 
+\t (00:06:26) Select element(s) to move.
+\i (00:06:28) drag_start grid -1.2195 4.0650
+\i (00:06:29) drag_stop 1.0569 -8.4553
+\i (00:06:29) pick grid 0.2439 -2.3577
+\t (00:06:29) last pick:  0.2400 -2.3600
+\t (00:06:29) Pick new location for the element(s).
+\i (00:06:37) ipick -0.5 
+\t (00:06:37) last pick:  -0.2600 -2.3600
+\i (00:06:41) prmed 
+\i (00:06:43) setwindow form.prmedit
+\i (00:06:43) FORM prmedit design  
+\i (00:06:44) FORM prmedit cancel  
+\i (00:06:44) setwindow pcb
+\i (00:06:44) generaledit 
+\t (00:06:45) last pick:  13.0081 3.7805
+\w (00:06:45) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:06:50) move 
+\t (00:06:51) Select element(s) to move.
+\i (00:06:52) drag_start grid 5.5284 2.3984
+\i (00:06:52) drag_stop 11.0162 -9.1870
+\i (00:06:54) pick grid 8.4146 -5.1220
+\t (00:06:54) last pick:  8.4100 -5.1200
+\t (00:06:54) Pick new location for the element(s).
+\i (00:07:01) ipick 0.5 
+\t (00:07:01) last pick:  8.9100 -5.1200
+\i (00:07:02) prepopup 13.1707 0.1626
+\i (00:07:02) done 
+\i (00:07:03) generaledit 
+\i (00:10:04) zoom in 1 
+\i (00:10:04) setwindow pcb
+\i (00:10:04) zoom in -1.7480 -6.5041
+\i (00:10:04) trapsize 1016
+\i (00:10:05) zoom out 1 
+\i (00:10:05) setwindow pcb
+\i (00:10:05) zoom out -5.6707 -6.8089
+\i (00:10:05) trapsize 2033
+\i (00:10:07) save 
+\i (00:10:09) fillin yes 
+\t (00:10:10) Symbol 'aqw610eh.psm' created.
+\i (00:10:10) generaledit 
+\i (00:10:11) show measure 
+\i (00:10:14) pick grid -0.5285 0.2439
+\t (00:10:14) last pick:  -0.5300 0.2400
+\i (00:10:15) pick grid 8.5772 0.1626
+\t (00:10:15) last pick:  8.5800 0.1600
+\i (00:10:22) prepopup 12.6016 0.6504
+\i (00:10:23) done 
+\i (00:10:23) generaledit 
+\i (00:10:24) zoom in 1 
+\i (00:10:24) setwindow pcb
+\i (00:10:24) zoom in -1.6260 -1.2195
+\i (00:10:24) trapsize 1016
+\i (00:10:24) zoom in 1 
+\i (00:10:24) setwindow pcb
+\i (00:10:24) zoom in -2.8252 0.5082
+\i (00:10:24) trapsize 508
+\i (00:10:24) zoom out 1 
+\i (00:10:24) setwindow pcb
+\i (00:10:24) zoom out -2.7947 0.5184
+\i (00:10:24) trapsize 1016
+\i (00:10:27) exit 
+\t (00:10:29)     Journal end - Tue Apr 18 16:27:04 2017

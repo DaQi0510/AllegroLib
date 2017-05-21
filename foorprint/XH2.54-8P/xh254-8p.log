@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : XH254-8P.dra                                  )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Tue Feb 14 14:44:28 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/XH2.54-8P
+    Name      = xh254-8p.psm
+    User      = DaQi
+    Machine   = DAQI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,28 @@
+\t (00:00:02) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:02)     Journal start - Sat Apr 22 21:57:28 2017
+\t (00:00:02)         Host=DAQI-PC User=DaQi Pid=11608 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/4.3_TFTLCD/TFT_LCD_4_3.dra
+\i (00:00:04) trapsize 2524
+\i (00:00:04) trapsize 2456
+\i (00:00:04) trapsize 2536
+\i (00:00:06) trapsize 2113
+\i (00:00:06) trapsize 2113
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 17.7958 7.9656
+\i (00:00:07) trapsize 4227
+\i (00:00:10) open 
+\i (00:00:27) fillin "F:\对外部分项目\信号发生器改版V2.0\Hardware\Pcb\DDS.brd"
+\i (00:00:27) cd "F:\对外部分项目\信号发生器改版V2.0\Hardware\Pcb"
+\t (00:00:27) Opening existing design...
+\i (00:00:29) trapsize 12376
+\i (00:00:29) trapsize 12051
+\i (00:00:29) trapsize 12376
+\i (00:00:32) trapsize 12720
+\i (00:00:32) trapsize 12720
+\t (00:00:32)     Journal end - Sat Apr 22 21:57:58 2017

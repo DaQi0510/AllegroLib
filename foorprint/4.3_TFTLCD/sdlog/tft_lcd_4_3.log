@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TFT_LCD_4_3.dra                               )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sat Apr 22 16:46:58 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/4.3_TFTLCD
+    Name      = tft_lcd_4_3.psm
+    User      = DaQi
+    Machine   = DAQI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DB25-M.dra                                    )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Jan 25 18:21:51 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/DB25-M
+    Name      = db25-m.psm
+    User      = DaQi
+    Machine   = DAQI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

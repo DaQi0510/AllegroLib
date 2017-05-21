@@ -1,0 +1,50 @@
+\t (00:00:40) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:40)     Journal start - Fri Apr 14 10:47:45 2017
+\t (00:00:40)         Host=DAQI-PC User=DaQi Pid=5680 CPUs=4
+\t (00:00:40) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:40) 
+\d (00:00:40) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/LM334SM-SOP8/lm334sm-sop8.dra
+\i (00:00:40) generaledit 
+\i (00:00:40) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -1.9512 1.4634
+\i (00:00:41) trapsize 1016
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -2.5610 1.7480
+\i (00:00:41) trapsize 508
+\i (00:00:45) show measure 
+\i (00:00:47) setwindow form.find
+\i (00:00:47) FORM find all_off  
+\i (00:00:49) FORM find pins YES 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) pick grid -2.8049 1.9309
+\t (00:00:50) last pick:  -2.5400 1.9050
+\i (00:00:53) pick grid 2.7744 1.9106
+\t (00:00:53) last pick:  2.5400 1.9050
+\i (00:01:57) pick grid 2.6931 0.5895
+\t (00:01:57) last pick:  2.5400 0.6350
+\i (00:02:01) setwindow text
+\i (00:02:01) close 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom out 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom out 0.1118 0.7826
+\i (00:02:02) trapsize 1016
+\i (00:02:02) prepopup 5.6708 1.2297
+\i (00:02:03) done 
+\i (00:02:03) generaledit 
+\i (04:32:15) open 
+\e (04:32:15) Do you want to save the changes you made to lm334sm-sop8.dra?
+\i (04:32:19) fillin no 
+\i (04:32:21) fillin "menu_cancel"
+\i (04:32:21) generaledit 
+\i (04:33:04) zoom out 1 
+\i (04:33:04) setwindow pcb
+\i (04:33:04) zoom out 0.9756 2.9777
+\i (04:33:04) trapsize 2033
+\i (04:34:19) new 
+\e (04:34:19) Do you want to save the changes you made to lm334sm-sop8.dra?
+\i (04:34:21) fillin no 
+\i (04:34:59) newdrawfillin "AQW610EH.dra" "Package Symbol"
+\t (04:34:59)     Journal end - Fri Apr 14 15:22:04 2017

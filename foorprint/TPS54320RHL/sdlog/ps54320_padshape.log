@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PS54320_PadShape.dra                          )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sun Apr 30 21:48:02 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/TPS54320RHL
+    Name      = ps54320_padshape.ssm
+    User      = DaQi
+    Machine   = DAQI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

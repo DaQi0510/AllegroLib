@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : STM32F103_LQFP64.dra                          )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Mon Sep 19 10:29:13 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/STM32F103_LQFP64/STM32F103_LQFP64/STM32F103_LQFP64_Allegro
+    Name      = stm32f103_lqfp64.psm
+    User      = DaQi
+    Machine   = DESKTOP-5QD1SMV
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

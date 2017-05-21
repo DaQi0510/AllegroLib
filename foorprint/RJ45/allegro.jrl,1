@@ -1,0 +1,63 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Wed Apr 27 13:37:33 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=46400 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1051
+\i (00:00:04) trapsize 1020
+\i (00:00:04) trapsize 1056
+\i (00:00:04) trapsize 868
+\i (00:00:04) trapsize 1121
+\i (00:00:05) placementedit 
+\i (00:00:07) open 
+\e (00:00:07) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:13) fillin no 
+\i (00:00:18) fillin "rj45.dra"
+\t (00:00:18) Opening existing design...
+\i (00:00:18) trapsize 1711
+\i (00:00:18) trapsize 1663
+\i (00:00:18) trapsize 1711
+\i (00:00:18) trapsize 1711
+\d (00:00:18) Design opened: E:/cadence lib/foorprint/RJ45/rj45.dra
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 5.8595 -1.1566
+\i (00:00:20) trapsize 856
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 5.8595 -1.1565
+\i (00:00:20) trapsize 428
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 5.8595 -1.1564
+\i (00:00:20) trapsize 214
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 5.8595 -1.1478
+\i (00:00:21) trapsize 107
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 5.0894 -0.9852
+\i (00:00:21) trapsize 214
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 5.1278 -0.9681
+\i (00:00:21) trapsize 428
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 6.1033 -0.6771
+\i (00:00:22) trapsize 856
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out 6.1204 -0.7114
+\i (00:00:22) trapsize 1711
+\i (00:00:22) roam start
+\i (00:00:22) roam y -48
+\i (00:00:23) roam x -32
+\i (00:00:23) roam y -48
+\i (00:00:23) roam x -32
+\i (00:00:23) roam y -48
+\i (00:00:23) roam end
+\i (00:00:24) exit 
+\t (00:00:24)     Journal end - Wed Apr 27 13:37:56 2016

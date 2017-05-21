@@ -1,0 +1,20 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Tue Feb 14 17:50:22 2017
+\t (00:00:03)         Host=DAQI-PC User=DaQi Pid=12768 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/XH2.54-8P/XH254-8P.dra
+\i (00:00:04) trapsize 1669
+\i (00:00:04) trapsize 1624
+\i (00:00:04) trapsize 1677
+\i (00:00:06) trapsize 1397
+\i (00:00:06) trapsize 1397
+\i (00:00:06) generaledit 
+\i (00:00:09) open 
+\i (00:00:19) fillin "F:\CADENCE LIB\cadence-lib-new\foorprint\LED0805\LED0805.dra"
+\i (00:00:19) cd "F:\CADENCE LIB\cadence-lib-new\foorprint\LED0805"
+\t (00:00:19) Opening existing design...
+\i (00:00:19) trapsize 320
+\t (00:00:19)     Journal end - Tue Feb 14 17:50:39 2017

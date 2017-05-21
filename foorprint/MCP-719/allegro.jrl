@@ -1,0 +1,20 @@
+\t (00:00:02) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:02)     Journal start - Sat Mar 25 11:29:44 2017
+\t (00:00:02)         Host=DAQI-PC User=DaQi Pid=25656 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/MCP-719/MCP-719.dra
+\i (00:00:04) trapsize 9104
+\i (00:00:04) trapsize 8859
+\i (00:00:04) trapsize 9147
+\i (00:00:06) trapsize 7622
+\i (00:00:06) trapsize 7622
+\i (00:00:07) generaledit 
+\i (00:00:14) open 
+\i (00:00:56) fillin "F:\CADENCE LIB\cadence-lib-new\foorprint\REF3125-SOT23\ref3125-sot23.dra"
+\i (00:00:56) cd "F:\CADENCE LIB\cadence-lib-new\foorprint\REF3125-SOT23"
+\t (00:00:56) Opening existing design...
+\i (00:00:56) trapsize 650
+\t (00:00:56)     Journal end - Sat Mar 25 11:30:38 2017

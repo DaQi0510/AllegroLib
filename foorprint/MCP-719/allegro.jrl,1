@@ -1,0 +1,40 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Fri Mar 24 16:55:21 2017
+\t (00:00:03)         Host=DAQI-PC User=DaQi Pid=13812 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/MCP-719/MCP-719.dra
+\i (00:00:06) trapsize 9104
+\i (00:00:06) trapsize 8859
+\i (00:00:06) trapsize 9147
+\i (00:00:08) trapsize 7622
+\i (00:00:08) trapsize 7622
+\i (00:00:09) generaledit 
+\i (03:54:02) zoom in 1 
+\i (03:54:02) setwindow pcb
+\i (03:54:02) zoom in 7.8969 26.7998
+\i (03:54:02) trapsize 3811
+\i (03:54:02) zoom in 1 
+\i (03:54:02) setwindow pcb
+\i (03:54:02) zoom in 7.8970 26.7998
+\i (03:54:02) trapsize 1906
+\i (03:54:03) zoom out 1 
+\i (03:54:03) setwindow pcb
+\i (03:54:03) zoom out 17.3485 26.6093
+\i (03:54:03) trapsize 3811
+\i (03:54:03) zoom out 1 
+\i (03:54:03) setwindow pcb
+\i (03:54:03) zoom out 17.3484 26.6093
+\i (03:54:03) trapsize 7622
+\i (03:54:06) zoom in 1 
+\i (03:54:06) setwindow pcb
+\i (03:54:06) zoom in 12.3178 27.0666
+\i (03:54:06) trapsize 3811
+\i (03:54:07) zoom in 1 
+\i (03:54:07) setwindow pcb
+\i (03:54:07) zoom in 10.5647 28.0575
+\i (03:54:07) trapsize 1906
+\i (04:09:45) exit 
+\t (04:09:46)     Journal end - Fri Mar 24 21:05:04 2017

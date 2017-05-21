@@ -1,0 +1,103 @@
+\t (00:00:02) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:02)     Journal start - Tue Feb 14 14:43:17 2017
+\t (00:00:02)         Host=DAQI-PC User=DaQi Pid=10780 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 968
+\i (00:00:05) trapsize 942
+\i (00:00:05) trapsize 972
+\i (00:00:06) trapsize 810
+\i (00:00:06) trapsize 1728
+\i (00:00:07) generaledit 
+\i (00:00:43) open 
+\e (00:00:43) Do you want to save the changes you made to XH2.54-8P.dra?
+\i (00:00:49) fillin no 
+\i (00:00:51) fillin "XH254-8P.dra"
+\t (00:00:51) Opening existing design...
+\i (00:00:51) trapsize 1397
+\d (00:00:52) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/XH2.54-8P/XH254-8P.dra
+\i (00:00:52) generaledit 
+\i (00:00:54) pick grid -1.4063 5.1056
+\t (00:00:54) last pick:  -1.4060 5.1060
+\i (00:00:56) move 
+\t (00:00:56) Select element(s) to move.
+\i (00:00:57) pick grid 8.5150 -1.6576
+\t (00:00:57) last pick:  8.5150 -1.6580
+\t (00:00:57) last pick:  8.2360 -1.9370
+\t (00:00:57) Pick new location for the element(s).
+\i (00:00:58) pick grid 8.1796 -1.9371
+\t (00:00:58) last pick:  8.1800 -1.9370
+\i (00:00:59) pick grid 1.7797 3.3729
+\t (00:00:59) last pick:  1.7800 3.3730
+\i (00:01:03) pick grid 9.2975 -1.7694
+\t (00:01:03) last pick:  9.2980 -1.7690
+\t (00:01:03) last pick:  8.1800 -1.9370
+\t (00:01:03) Pick new location for the element(s).
+\i (00:01:05) pick grid 8.1796 -1.9371
+\t (00:01:05) last pick:  8.1800 -1.9370
+\i (00:01:06) move 
+\t (00:01:06) Select element(s) to move.
+\i (00:01:09) save 
+\i (00:01:10) fillin yes 
+\t (00:01:13) Symbol 'xh254-8p.psm' created.
+\i (00:01:13) generaledit 
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out 9.4931 -2.9153
+\i (00:01:28) trapsize 2795
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out 26.8345 -2.8593
+\i (00:01:29) trapsize 5589
+\i (00:01:31) zoom out 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom out 63.7805 -0.8333
+\i (00:01:31) trapsize 5589
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 11.4634 -2.2866
+\i (00:01:32) trapsize 2795
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 1.5142 -2.4543
+\i (00:01:32) trapsize 1397
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 1.5142 -2.4543
+\i (00:01:32) trapsize 699
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 1.5143 -2.4542
+\i (00:01:32) trapsize 349
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out 2.0453 -2.2166
+\i (00:01:33) trapsize 699
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out 2.0453 -2.2166
+\i (00:01:33) trapsize 1397
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in 6.8521 -1.2106
+\i (00:01:34) trapsize 699
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out 7.1036 -1.0709
+\i (00:01:34) trapsize 1397
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out 7.2993 -1.0429
+\i (00:01:34) trapsize 2795
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out 16.9412 -0.9869
+\i (00:01:35) trapsize 5589
+\i (00:01:35) zoom in 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom in 1.0671 -5.8638
+\i (00:01:35) trapsize 2795
+\i (00:01:38) exit 
+\t (00:01:39)     Journal end - Tue Feb 14 14:44:54 2017

@@ -1,0 +1,23 @@
+\t (00:00:11) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:11)     Journal start - Fri Apr 07 20:41:30 2017
+\t (00:00:11)         Host=DAQI-PC User=DaQi Pid=11632 CPUs=4
+\t (00:00:11) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:11) 
+   (00:00:11) Loading axlcore.cxt 
+\t (00:00:12) Opening existing design...
+\d (00:00:12) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/LM334SM-SOP8/lm334sm-sop8.dra
+\i (00:00:12) trapsize 1491
+\i (00:00:12) trapsize 1451
+\i (00:00:12) trapsize 1498
+\i (00:00:14) trapsize 1248
+\i (00:00:14) trapsize 2033
+\i (00:00:15) generaledit 
+\i (00:00:18) open 
+\i (00:00:35) fillin "F:\对外部分项目\信号发生器改版\Hardware\Pcb\DDS.brd"
+\i (00:00:35) cd "F:\对外部分项目\信号发生器改版\Hardware\Pcb"
+\t (00:00:35) Opening existing design...
+\i (00:00:37) trapsize 7522
+\i (00:00:37) trapsize 7324
+\i (00:00:37) trapsize 7522
+\i (00:00:39) trapsize 7522
+\t (00:00:39)     Journal end - Fri Apr 07 20:41:59 2017

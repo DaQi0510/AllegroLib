@@ -1,0 +1,29 @@
+\t (00:00:41) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:41)     Journal start - Mon Feb 13 18:09:34 2017
+\t (00:00:41)         Host=DAQI-PC User=DaQi Pid=12900 CPUs=4
+\t (00:00:41) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
+\t (00:00:41) 
+\i (00:00:47) FORM padedit units Millimeter 
+\i (00:00:48) fillin yes 
+\w (00:00:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:57) FORM padedit hole_size_x 1.5000 
+\i (00:01:01) FORM padedit drill_fig Hexagon X 
+\i (00:01:05) FORM padedit characters A 
+\i (00:01:08) FORM padedit drill_width 1.5 
+\i (00:01:12) FORM padedit drill_height 1.5 
+\i (00:01:14) FORM padedit layers  
+\i (00:01:16) FORM padedit grid row begin_layer 
+\i (00:01:19) FORM padedit geometry Circle 
+\i (00:01:24) FORM padedit width 2.5 
+\i (00:01:29) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:30) FORM padedit grid row default_internal 
+\i (00:01:31) FORM padedit grid rpopup default_internal Paste 
+\i (00:01:34) FORM padedit grid row end_layer 
+\i (00:01:35) FORM padedit grid rpopup end_layer Paste 
+\i (00:01:40) FORM padedit grid row soldermask_top 
+\i (00:01:42) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:01:42) FORM padedit grid row soldermask_bottom 
+\i (00:01:44) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:02:00) pse_save 
+\i (00:02:08) pse_exit
+\t (00:02:08)     Journal end - Mon Feb 13 18:11:01 2017

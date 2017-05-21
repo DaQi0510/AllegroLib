@@ -1,0 +1,10 @@
+\t (00:09:10) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:09:10)     Journal start - Wed Jan 04 22:04:22 2017
+\t (00:09:10)         Host=DAQI-PC User=DaQi Pid=5452 CPUs=4
+\t (00:09:10) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
+\t (00:09:10) 
+\i (00:09:17) FORM padedit layers  
+\i (00:09:25) FORM padedit parameters  
+\i (00:10:01) pse_new 
+\i (00:11:38) fillin "h580c300p.pad"
+\t (00:11:38)     Journal end - Wed Jan 04 22:06:51 2017

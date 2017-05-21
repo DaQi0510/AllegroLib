@@ -1,0 +1,17 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Mon Feb 13 17:01:20 2017
+\t (00:00:03)         Host=DAQI-PC User=DaQi Pid=5996 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\d (00:00:09) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/CAP-3216/CAP-3216.dra
+\i (00:00:09) trapsize 759
+\i (00:00:09) trapsize 738
+\i (00:00:10) trapsize 762
+\i (00:00:11) trapsize 635
+\i (00:00:11) trapsize 635
+\i (00:00:12) shapeedit 
+\i (00:00:16) new 
+\i (00:00:43) newdrawfillin "HK4100F.dra" "Package Symbol"
+\t (00:00:43)     Journal end - Mon Feb 13 17:01:59 2017

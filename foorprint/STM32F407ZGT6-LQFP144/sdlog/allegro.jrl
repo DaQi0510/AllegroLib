@@ -1,0 +1,97 @@
+\t (00:55:54) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:55:54)     Journal start - Sun Apr 30 22:50:50 2017
+\t (00:55:54)         Host=DAQI-PC User=DaQi Pid=8712 CPUs=4
+\t (00:55:54) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:55:54) 
+\d (00:55:54) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/STM32F407ZGT6-LQFP144/stm32f407zgt6-lqfp144.dra
+\i (00:55:54) generaledit 
+\i (00:55:55) zoom in 1 
+\i (00:55:55) setwindow pcb
+\i (00:55:55) zoom in -11.3393 8.8910
+\i (00:55:55) trapsize 1611
+\i (00:55:55) zoom in 1 
+\i (00:55:55) setwindow pcb
+\i (00:55:55) zoom in -18.5552 8.8588
+\i (00:55:55) trapsize 805
+\i (00:55:56) zoom in 1 
+\i (00:55:56) setwindow pcb
+\i (00:55:56) zoom in -8.4722 8.7300
+\i (00:55:56) trapsize 403
+\i (00:55:56) zoom in 1 
+\i (00:55:56) setwindow pcb
+\i (00:55:56) zoom in -8.4078 8.3112
+\i (00:55:56) trapsize 201
+\i (00:55:57) zoom in 1 
+\i (00:55:57) setwindow pcb
+\i (00:55:57) zoom in -8.4077 8.3112
+\i (00:55:57) trapsize 101
+\i (00:55:58) zoom out 1 
+\i (00:55:58) setwindow pcb
+\i (00:55:58) zoom out -8.5990 8.4642
+\i (00:55:58) trapsize 201
+\i (00:55:58) zoom out 1 
+\i (00:55:58) setwindow pcb
+\i (00:55:58) zoom out -8.5990 8.4643
+\i (00:55:58) trapsize 403
+\i (00:55:58) zoom out 1 
+\i (00:55:58) setwindow pcb
+\i (00:55:58) zoom out -8.5990 8.4642
+\i (00:55:58) trapsize 805
+\i (00:55:59) zoom in 1 
+\i (00:55:59) setwindow pcb
+\i (00:55:59) zoom in -11.2405 9.2534
+\i (00:55:59) trapsize 403
+\i (00:55:59) zoom in 1 
+\i (00:55:59) setwindow pcb
+\i (00:55:59) zoom in -11.2404 9.2534
+\i (00:55:59) trapsize 201
+\i (00:56:00) pick grid -11.2404 9.3219
+\t (00:56:00) last pick:  -11.4300 9.5250
+\i (00:56:01) zoom out 1 
+\i (00:56:01) setwindow pcb
+\i (00:56:01) zoom out -11.2363 9.3219
+\i (00:56:01) trapsize 403
+\i (00:56:01) zoom out 1 
+\i (00:56:01) setwindow pcb
+\i (00:56:01) zoom out -11.2364 9.3219
+\i (00:56:01) trapsize 805
+\i (00:56:02) zoom out 1 
+\i (00:56:02) setwindow pcb
+\i (00:56:02) zoom out -11.2364 9.3220
+\i (00:56:02) trapsize 1611
+\i (00:56:03) zoom in 1 
+\i (00:56:03) setwindow pcb
+\i (00:56:03) zoom in -3.6723 4.5220
+\i (00:56:03) trapsize 805
+\i (00:56:06) setwindow form.find
+\i (00:56:06) FORM find all_off  
+\i (00:56:08) FORM find other_segs YES 
+\i (00:56:18) setwindow pcb
+\i (00:56:18) zoom out 1 
+\i (00:56:18) setwindow pcb
+\i (00:56:18) zoom out -9.2131 8.8226
+\i (00:56:18) trapsize 1611
+\i (00:56:19) zoom out 1 
+\i (00:56:19) setwindow pcb
+\i (00:56:19) zoom out -7.6346 6.5676
+\i (00:56:19) trapsize 3221
+\i (00:56:20) zoom in 1 
+\i (00:56:20) setwindow pcb
+\i (00:56:20) zoom in -8.3112 7.3448
+\i (00:56:20) trapsize 1611
+\i (00:56:20) zoom in 1 
+\i (00:56:20) setwindow pcb
+\i (00:56:20) zoom in -17.1056 7.3448
+\i (00:56:20) trapsize 805
+\i (00:56:34) zoom out 1 
+\i (00:56:34) setwindow pcb
+\i (00:56:34) zoom out -11.4520 9.7608
+\i (00:56:34) trapsize 1611
+\i (00:56:38) open 
+\e (00:56:38) Do you want to save the changes you made to stm32f407zgt6-lqfp144.dra?
+\i (00:56:40) fillin no 
+\i (00:56:48) fillin "F:\CADENCE LIB\cadence-lib-new\foorprint\TPS54320RHL\TPS54320RHL.dra"
+\i (00:56:48) cd "F:\CADENCE LIB\cadence-lib-new\foorprint\TPS54320RHL"
+\t (00:56:48) Opening existing design...
+\i (00:56:48) trapsize 778
+\t (00:56:48)     Journal end - Sun Apr 30 22:51:44 2017

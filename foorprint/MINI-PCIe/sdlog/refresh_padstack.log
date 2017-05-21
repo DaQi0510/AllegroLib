@@ -1,0 +1,50 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : MINI-PCIe.dra                                 )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Fri May 05 11:04:18 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri May 05 11:04:18 2017				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'F:/CADENCE LIB/cadence-lib-new/foorprint/MINI-PCIe/MINI-PCIe.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  F:/CADENCE LIB/cadence-lib-new/PSM/ 
+
+PADPATH =  F:/CADENCE LIB/cadence-lib-new/PAD/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'H160'  pad stack refresh starting.
+
+     'H160'  pad stack refreshed successfully.
+     
+'H580C300P'  pad stack refresh starting.
+
+     'H580C300P'  pad stack refreshed successfully.
+     
+'S230X320'  pad stack refresh starting.
+
+     'S230X320'  pad stack refreshed successfully.
+     
+'S59X200'  pad stack refresh starting.
+
+     'S59X200'  pad stack refreshed successfully.
+     
+'HS160'  pad stack refresh starting.
+
+     'HS160'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

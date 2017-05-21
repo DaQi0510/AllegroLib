@@ -1,0 +1,93 @@
+\t (00:00:47) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:47)     Journal start - Mon Feb 13 19:38:40 2017
+\t (00:00:47)         Host=DAQI-PC User=DaQi Pid=13708 CPUs=4
+\t (00:00:47) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:47) 
+\d (00:00:47) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/DuanZi-2P-508/DuanZi-2P-508.dra
+\i (00:00:47) generaledit 
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 0.7215 -0.2501
+\i (00:00:48) trapsize 635
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 0.7851 -0.3517
+\i (00:00:49) trapsize 1270
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 8.6992 0.3596
+\i (00:00:52) trapsize 635
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 7.8227 0.3216
+\i (00:00:53) trapsize 1270
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 8.5467 0.2961
+\i (00:00:54) trapsize 2541
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 6.9716 0.6707
+\i (00:00:56) trapsize 1270
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in -1.5142 0.6708
+\i (00:00:56) trapsize 635
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out -0.9299 0.8232
+\i (00:00:57) trapsize 1270
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 6.3618 2.2968
+\i (00:01:08) trapsize 635
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 6.3618 2.2968
+\i (00:01:08) trapsize 318
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in 6.3682 2.3159
+\i (00:01:09) trapsize 159
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 6.3682 2.3160
+\i (00:01:09) trapsize 318
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 6.3682 2.3159
+\i (00:01:09) trapsize 635
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 6.3555 2.3160
+\i (00:01:11) trapsize 1270
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 6.3621 2.3160
+\i (00:01:11) trapsize 2541
+\e (00:02:32) Command not found: xhilite
+\i (00:02:32) xname_flush 
+\i (00:02:32) done 
+\i (00:02:32) generaledit 
+\i (00:03:27) zoom in 1 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom in -1.9715 -0.2439
+\i (00:03:27) trapsize 1270
+\i (00:03:28) drag_start grid -4.7917 4.6596
+\i (00:03:30) drag_stop 9.3089 -4.3597
+\i (00:03:36) prepopup 7.2764 -1.5650
+\i (00:03:41) pick grid 12.6880 4.9391
+\t (00:03:41) last pick:  12.6880 4.9390
+\i (00:03:42) drag_start grid -3.6484 4.6342
+\i (00:03:43) drag_stop 8.8516 -4.4105
+\i (00:03:45) prepopup 5.1931 0.0102
+\i (00:03:46) prepopup 5.1931 0.0102
+\i (00:03:46) prepopup 5.1931 0.0102
+\i (00:03:46) prepopup 5.1931 0.0102
+\i (00:03:51) pick grid 4.9136 -0.0406
+\t (00:03:51) last pick:  4.9140 -0.0410
+\i (00:03:52) prepopup 4.9644 -0.0406
+\i (00:03:56) pick grid 13.1199 1.8903
+\t (00:03:56) last pick:  13.1200 1.8900
+\i (00:03:59) exit 
+\t (00:04:00)     Journal end - Mon Feb 13 19:41:54 2017

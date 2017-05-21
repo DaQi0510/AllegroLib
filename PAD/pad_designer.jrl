@@ -1,0 +1,17 @@
+\t (00:00:13) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:13)     Journal start - Mon Apr 10 16:05:30 2017
+\t (00:00:13)         Host=DAQI-PC User=DaQi Pid=8056 CPUs=4
+\t (00:00:13) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
+\t (00:00:13) 
+\i (00:00:18) FORM padedit layers  
+\i (00:00:51) FORM padedit height 0.254 
+\i (00:00:57) FORM padedit grid row begin_layer 
+\i (00:00:58) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:00) FORM padedit grid row soldermask_top 
+\i (00:01:02) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:01:03) FORM padedit grid row pastemask_top 
+\i (00:01:05) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:01:11) pse_save 
+\i (00:01:12) fillin yes 
+\i (00:01:15) pse_exit
+\t (00:01:15)     Journal end - Mon Apr 10 16:06:32 2017

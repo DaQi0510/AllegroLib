@@ -1,0 +1,190 @@
+\t (00:10:09) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:10:09)     Journal start - Wed May 04 13:06:08 2016
+\t (00:10:09)         Host=PSAI-PC User=psai Pid=6692 CPUs=4
+\t (00:10:09) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:10:09) 
+\d (00:10:09) Design opened: E:/cadence lib/foorprint/KEY-HD11/key-hd11.dra
+\i (00:10:21) zoom out 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom out 4.5057 2.0752
+\i (00:10:21) trapsize 1152
+\i (00:10:21) zoom out 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom out 4.5057 2.0752
+\i (00:10:21) trapsize 2304
+\i (00:10:21) zoom in 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom in 4.5058 2.0752
+\i (00:10:21) trapsize 1152
+\i (00:10:23) zoom in 1 
+\i (00:10:23) setwindow pcb
+\i (00:10:23) zoom in 5.4964 1.5684
+\i (00:10:23) trapsize 576
+\i (00:10:26) roam start
+\i (00:10:26) roam x 16
+\i (00:10:26) roam y -48
+\i (00:10:26) roam x 32
+\i (00:10:26) roam y -64
+\i (00:10:26) roam x 32
+\i (00:10:26) roam y -64
+\i (00:10:26) roam x 16
+\i (00:10:26) roam y -48
+\i (00:10:26) roam x 16
+\i (00:10:26) roam y -48
+\i (00:10:26) roam x 16
+\i (00:10:26) roam y -32
+\i (00:10:26) roam x -32
+\i (00:10:26) roam y 80
+\i (00:10:26) roam x -32
+\i (00:10:26) roam y 64
+\i (00:10:27) roam x -16
+\i (00:10:27) roam y 32
+\i (00:10:27) roam x 16
+\i (00:10:27) roam y 16
+\i (00:10:27) roam x 16
+\i (00:10:27) roam y 32
+\i (00:10:27) roam x 16
+\i (00:10:27) roam y 16
+\i (00:10:27) roam end
+\t (00:10:27) Pick to complete the window.
+\i (00:10:29) zoom points
+\i (00:10:29) pick 6.2335 0.1746
+\i (00:10:29) pick 1.0270 3.4361
+\i (00:10:29) trapsize 215
+\i (00:10:30) zoom out 1 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) zoom out 2.8902 1.9345
+\i (00:10:30) trapsize 430
+\i (00:10:30) zoom out 1 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) zoom out 2.8901 1.9345
+\i (00:10:30) trapsize 861
+\e (00:11:56) Command not found: xhilite
+\i (00:11:56) xname_flush 
+\e (00:11:56) No command active
+\i (00:11:56) done 
+\e (00:11:56) No command active
+\e (00:12:02) Command not found: xdehilite
+\i (00:12:02) xname_flush 
+\e (00:12:02) No command active
+\i (00:12:02) done 
+\e (00:12:02) No command active
+\e (00:12:03) Command not found: xhilite
+\i (00:12:03) xname_flush 
+\e (00:12:03) No command active
+\i (00:12:03) done 
+\e (00:12:03) No command active
+\e (00:12:05) Command not found: xdehilite
+\i (00:12:05) xname_flush 
+\e (00:12:05) No command active
+\i (00:12:05) done 
+\e (00:12:05) No command active
+\e (00:13:41) Command not found: xhilite
+\i (00:13:41) xname_flush 
+\e (00:13:41) No command active
+\i (00:13:41) done 
+\e (00:13:41) No command active
+\e (00:13:47) Command not found: xdehilite
+\i (00:13:47) xname_flush 
+\e (00:13:47) No command active
+\i (00:13:47) done 
+\e (00:13:47) No command active
+\e (00:13:58) Command not found: xhilite
+\i (00:13:58) xname_flush 
+\e (00:13:58) No command active
+\i (00:13:58) done 
+\e (00:13:58) No command active
+\e (00:13:59) Command not found: xdehilite
+\i (00:13:59) xname_flush 
+\e (00:13:59) No command active
+\i (00:13:59) done 
+\e (00:13:59) No command active
+\e (00:13:59) Command not found: xhilite
+\i (00:13:59) xname_flush 
+\e (00:13:59) No command active
+\i (00:13:59) done 
+\e (00:13:59) No command active
+\e (00:14:02) Command not found: xdehilite
+\i (00:14:02) xname_flush 
+\e (00:14:02) No command active
+\i (00:14:02) done 
+\e (00:14:02) No command active
+\e (00:14:02) Command not found: xhilite
+\i (00:14:02) xname_flush 
+\e (00:14:02) No command active
+\i (00:14:02) done 
+\e (00:14:02) No command active
+\e (00:14:05) Command not found: xhilite
+\i (00:14:05) xname_flush 
+\e (00:14:05) No command active
+\i (00:14:05) done 
+\e (00:14:05) No command active
+\e (00:14:11) Command not found: xdehilite
+\i (00:14:11) xname_flush 
+\e (00:14:11) No command active
+\i (00:14:11) done 
+\e (00:14:11) No command active
+\e (00:14:31) Command not found: xhilite
+\i (00:14:31) xname_flush 
+\e (00:14:31) No command active
+\i (00:14:31) done 
+\e (00:14:31) No command active
+\e (00:14:34) Command not found: xhilite
+\i (00:14:34) xname_flush 
+\e (00:14:34) No command active
+\i (00:14:34) done 
+\e (00:14:34) No command active
+\e (00:14:44) Command not found: xdehilite
+\i (00:14:44) xname_flush 
+\e (00:14:44) No command active
+\i (00:14:44) done 
+\e (00:14:44) No command active
+\e (00:14:44) Command not found: xhilite
+\i (00:14:44) xname_flush 
+\e (00:14:44) No command active
+\i (00:14:44) done 
+\e (00:14:44) No command active
+\e (00:14:45) Command not found: xdehilite
+\i (00:14:45) xname_flush 
+\e (00:14:45) No command active
+\i (00:14:45) done 
+\e (00:14:45) No command active
+\e (00:14:46) Command not found: xhilite
+\i (00:14:46) xname_flush 
+\e (00:14:46) No command active
+\i (00:14:46) done 
+\e (00:14:46) No command active
+\e (00:14:47) Command not found: xdehilite
+\i (00:14:47) xname_flush 
+\e (00:14:47) No command active
+\i (00:14:47) done 
+\e (00:14:47) No command active
+\e (00:14:48) Command not found: xhilite
+\i (00:14:48) xname_flush 
+\e (00:14:48) No command active
+\i (00:14:48) done 
+\e (00:14:48) No command active
+\e (00:14:49) Command not found: xdehilite
+\i (00:14:49) xname_flush 
+\e (00:14:49) No command active
+\i (00:14:49) done 
+\e (00:14:49) No command active
+\e (00:14:50) Command not found: xhilite
+\i (00:14:50) xname_flush 
+\e (00:14:50) No command active
+\i (00:14:50) done 
+\e (00:14:50) No command active
+\e (00:14:51) Command not found: xdehilite
+\i (00:14:51) xname_flush 
+\e (00:14:51) No command active
+\i (00:14:51) done 
+\e (00:14:51) No command active
+\i (00:15:40) open 
+\i (00:16:14) fillin "E:\material\lool Inds Vibration\hardware\v1.0\pcb\vibration.brd"
+\i (00:16:14) cd "E:\material\lool Inds Vibration\hardware\v1.0\pcb"
+\t (00:16:14) Opening existing design...
+\i (00:16:14) trapsize 49076
+\i (00:16:14) trapsize 47697
+\i (00:16:15) trapsize 49076
+\i (00:16:15) trapsize 49076
+\t (00:16:15)     Journal end - Wed May 04 13:12:14 2016

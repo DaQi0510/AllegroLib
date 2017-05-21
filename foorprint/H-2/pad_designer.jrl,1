@@ -1,0 +1,9 @@
+\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:00)     Journal start - Wed Jan 04 20:20:38 2017
+\t (00:00:00)         Host=DAQI-PC User=DaQi Pid=9420 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) pse_new 
+\i (00:02:46) fillin "hs160.pad"
+\t (00:02:46)     Journal end - Wed Jan 04 20:23:25 2017

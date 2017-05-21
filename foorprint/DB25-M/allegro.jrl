@@ -1,0 +1,25 @@
+\t (00:00:07) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:07)     Journal start - Sun Apr 09 16:14:49 2017
+\t (00:00:07)         Host=DAQI-PC User=DaQi Pid=5820 CPUs=4
+\t (00:00:07) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/DB25-M/DB25-M.dra
+\i (00:00:08) trapsize 1897
+\i (00:00:08) trapsize 1846
+\i (00:00:08) trapsize 1905
+\i (00:00:10) trapsize 1588
+\i (00:00:10) trapsize 1588
+\i (00:00:10) generaledit 
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 27.3947 -4.0777
+\i (00:00:14) trapsize 3176
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 27.3947 -4.3317
+\i (00:00:14) trapsize 6352
+\i (00:00:19) new 
+\i (00:01:28) newdrawfillin "DataCollection.brd" "Board"
+\t (00:01:28)     Journal end - Sun Apr 09 16:16:10 2017

@@ -1,0 +1,312 @@
+\t (02:43:00) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (02:43:00)     Journal start - Mon Jun 13 14:58:31 2016
+\t (02:43:00)         Host=PSAI-PC User=psai Pid=9444 CPUs=4
+\t (02:43:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (02:43:00) 
+\d (02:43:00) Design opened: E:/cadence lib/foorprint/IS61WV51216BLL-TSOP44/is61wv51216bll-tsop44.dra
+\i (02:43:01) generaledit 
+\i (02:43:01) zoom in 1 
+\i (02:43:01) setwindow pcb
+\i (02:43:01) zoom in -3.1346 -8.8338
+\i (02:43:01) trapsize 1425
+\i (02:43:01) zoom in 1 
+\i (02:43:01) setwindow pcb
+\i (02:43:01) zoom in -3.6190 -9.0048
+\i (02:43:01) trapsize 712
+\i (02:43:01) zoom in 1 
+\i (02:43:01) setwindow pcb
+\i (02:43:01) zoom in -3.5193 -9.0902
+\i (02:43:01) trapsize 356
+\i (02:43:02) zoom out 1 
+\i (02:43:02) setwindow pcb
+\i (02:43:02) zoom out -3.4052 -9.1116
+\i (02:43:02) trapsize 712
+\i (02:43:03) zoom out 1 
+\i (02:43:03) setwindow pcb
+\i (02:43:03) zoom out -1.6671 -8.4846
+\i (02:43:03) trapsize 1425
+\i (02:43:03) zoom out 1 
+\i (02:43:03) setwindow pcb
+\i (02:43:03) zoom out -1.6385 -8.4846
+\i (02:43:03) trapsize 2850
+\i (02:43:03) zoom in 1 
+\i (02:43:03) setwindow pcb
+\i (02:43:03) zoom in -1.7668 9.1187
+\i (02:43:03) trapsize 1425
+\i (02:43:03) zoom in 1 
+\i (02:43:03) setwindow pcb
+\i (02:43:03) zoom in -2.9636 9.1188
+\i (02:43:03) trapsize 712
+\i (02:43:04) zoom in 1 
+\i (02:43:04) setwindow pcb
+\i (02:43:04) zoom in -2.9208 9.2043
+\i (02:43:04) trapsize 356
+\i (02:43:05) shape select 
+\i (02:43:06) pick grid -3.2627 9.5605
+\t (02:43:06) last pick:  -2.5400 10.1600
+\i (02:43:08) drag_start grid -2.6857 9.5320
+\t (02:43:08) last pick:  -2.6857 9.5500
+\i (02:43:10) drag_stop grid -2.5931 9.4536
+\t (02:43:10) No DRC errors detected.
+\i (02:43:14) g 1 
+\i (02:43:14) replay ./grids.scr 
+\i (02:43:14) scriptmode +i +n 
+\i (02:43:14) version 15.5 
+\t (02:43:14) Script version: 15.5
+\i (02:43:14) setwindow pcb 
+\i (02:43:14) trapsize 15382 
+\i (02:43:14) define grid 
+\t (02:43:14) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (02:43:14) setwindow form.grid 
+\i (02:43:14) FORM grid non_etch non_etch_x_grids 1.000000 
+\i (02:43:14) FORM grid non_etch non_etch_y_grids 1.000000 
+\i (02:43:14) FORM grid all_etch all_etch_x_grids 1.000000 
+\i (02:43:14) FORM grid all_etch all_etch_y_grids 1.000000 
+\i (02:43:14) FORM grid done 
+\i (02:43:14) setwindow pcb 
+\i (02:43:14) trapsize 356
+\i (02:43:14) generaledit 
+\i (02:43:15) roam start
+\i (02:43:15) roam x -64
+\i (02:43:15) roam y -16
+\i (02:43:15) roam x -64
+\i (02:43:15) roam y -32
+\i (02:43:16) roam x -48
+\i (02:43:16) roam y -16
+\i (02:43:16) roam y -16
+\i (02:43:16) roam x -48
+\i (02:43:16) roam y -16
+\i (02:43:16) roam x -48
+\i (02:43:16) roam y -16
+\i (02:43:16) roam end
+\i (02:43:16) move 
+\t (02:43:16) Select element(s) to move.
+\i (02:43:19) shape select 
+\i (02:43:20) pick grid -3.4692 10.1448
+\t (02:43:20) last pick:  -3.0000 10.0000
+\i (02:43:21) drag_start grid -3.3196 10.1519
+\t (02:43:21) last pick:  -3.3196 10.1600
+\i (02:43:23) drag_stop grid -3.2484 9.3897
+\t (02:43:23) No DRC errors detected.
+\i (02:43:25) prepopup -4.0107 10.7575
+\i (02:43:26) oops 
+\i (02:43:26) prepopup -4.2885 10.7432
+\i (02:43:30) prmed 
+\i (02:43:32) setwindow form.prmedit
+\i (02:43:32) FORM prmedit cancel  
+\i (02:43:32) setwindow pcb
+\i (02:43:32) generaledit 
+\i (02:43:37) g 0.1 
+\i (02:43:37) replay ./grids.scr 
+\i (02:43:37) scriptmode +i +n 
+\i (02:43:37) version 15.5 
+\t (02:43:37) Script version: 15.5
+\i (02:43:37) setwindow pcb 
+\i (02:43:37) trapsize 15382 
+\i (02:43:37) define grid 
+\t (02:43:37) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (02:43:37) setwindow form.grid 
+\i (02:43:37) FORM grid non_etch non_etch_x_grids 0.100000 
+\i (02:43:37) FORM grid non_etch non_etch_y_grids 0.100000 
+\i (02:43:37) FORM grid all_etch all_etch_x_grids 0.100000 
+\i (02:43:37) FORM grid all_etch all_etch_y_grids 0.100000 
+\i (02:43:37) FORM grid done 
+\i (02:43:37) setwindow pcb 
+\i (02:43:37) trapsize 356
+\i (02:43:37) generaledit 
+\i (02:43:40) shape select 
+\i (02:43:41) pick grid -3.4479 10.1733
+\t (02:43:41) last pick:  -3.4000 10.2000
+\i (02:43:44) drag_start grid -3.4194 10.1591
+\t (02:43:44) last pick:  -3.4194 10.1600
+\i (02:43:49) drag_stop grid -3.3838 9.5036
+\t (02:43:49) No DRC errors detected.
+\i (02:43:50) zoom out 1 
+\i (02:43:50) setwindow pcb
+\i (02:43:50) zoom out -2.7925 9.3612
+\i (02:43:50) trapsize 712
+\i (02:43:50) zoom out 1 
+\i (02:43:50) setwindow pcb
+\i (02:43:50) zoom out -2.7925 9.3612
+\i (02:43:50) trapsize 1425
+\i (02:43:51) zoom in 1 
+\i (02:43:51) setwindow pcb
+\i (02:43:51) zoom in -3.1344 9.7886
+\i (02:43:51) trapsize 712
+\i (02:43:51) zoom in 1 
+\i (02:43:51) setwindow pcb
+\i (02:43:51) zoom in -3.1343 9.7886
+\i (02:43:51) trapsize 356
+\i (02:43:52) drag_start grid -3.3267 9.4823
+\t (02:43:52) last pick:  -3.3267 9.5000
+\i (02:43:53) drag_stop grid -3.3552 9.1973
+\t (02:43:53) No DRC errors detected.
+\i (02:43:55) zoom out 1 
+\i (02:43:55) setwindow pcb
+\i (02:43:55) zoom out -3.3552 9.3042
+\i (02:43:55) trapsize 712
+\i (02:43:55) zoom out 1 
+\i (02:43:55) setwindow pcb
+\i (02:43:55) zoom out -3.3552 9.2757
+\i (02:43:55) trapsize 1425
+\i (02:43:56) roam start
+\i (02:43:56) roam x 16
+\i (02:43:56) roam y 96
+\i (02:43:56) roam y 64
+\i (02:43:56) roam y 64
+\i (02:43:56) roam y 112
+\i (02:43:56) roam y 80
+\i (02:43:56) roam x 16
+\i (02:43:56) roam y 64
+\i (02:43:56) roam x 16
+\i (02:43:56) roam y 64
+\i (02:43:56) roam x 16
+\i (02:43:56) roam y 64
+\i (02:43:56) roam y 64
+\i (02:43:56) roam x 16
+\i (02:43:56) roam x 16
+\i (02:43:56) roam x 16
+\i (02:43:56) roam y -16
+\i (02:43:57) roam end
+\i (02:43:57) zoom in 1 
+\i (02:43:57) setwindow pcb
+\i (02:43:57) zoom in -0.3987 -9.4606
+\i (02:43:57) trapsize 712
+\i (02:43:57) zoom in 1 
+\i (02:43:57) setwindow pcb
+\i (02:43:57) zoom in -0.3987 -9.4605
+\i (02:43:57) trapsize 356
+\i (02:43:57) zoom in 1 
+\i (02:43:57) setwindow pcb
+\i (02:43:57) zoom in -0.3987 -9.4605
+\i (02:43:57) trapsize 178
+\i (02:43:59) drag_start grid -0.3595 -9.5460
+\t (02:43:59) last pick:  -0.3595 -9.5500
+\i (02:44:01) drag_stop grid -0.3061 -9.1649
+\t (02:44:01) No DRC errors detected.
+\i (02:44:02) zoom out 1 
+\i (02:44:02) setwindow pcb
+\i (02:44:02) zoom out -0.3417 -9.2325
+\i (02:44:02) trapsize 356
+\i (02:44:02) zoom out 1 
+\i (02:44:02) setwindow pcb
+\i (02:44:02) zoom out -0.3416 -9.2325
+\i (02:44:02) trapsize 712
+\i (02:44:02) zoom out 1 
+\i (02:44:02) setwindow pcb
+\i (02:44:02) zoom out -0.3417 -9.2325
+\i (02:44:02) trapsize 1425
+\i (02:44:02) roam start
+\i (02:44:02) roam x 32
+\i (02:44:02) roam y -16
+\i (02:44:02) roam y -16
+\i (02:44:02) roam y -80
+\i (02:44:02) roam y -64
+\i (02:44:02) roam y -64
+\i (02:44:02) roam y -32
+\i (02:44:02) roam x -32
+\i (02:44:02) roam y -32
+\i (02:44:03) roam x -32
+\i (02:44:03) roam y -48
+\i (02:44:03) roam x -32
+\i (02:44:03) roam y -48
+\i (02:44:03) roam x -16
+\i (02:44:03) roam y -32
+\i (02:44:03) roam y -48
+\i (02:44:03) roam y -48
+\i (02:44:03) roam y -32
+\i (02:44:03) roam x 32
+\i (02:44:03) roam y -16
+\i (02:44:03) roam end
+\i (02:44:03) zoom in 1 
+\i (02:44:03) setwindow pcb
+\i (02:44:03) zoom in -2.7354 9.0906
+\i (02:44:03) trapsize 712
+\i (02:44:03) zoom in 1 
+\i (02:44:03) setwindow pcb
+\i (02:44:03) zoom in -2.7354 9.0906
+\i (02:44:03) trapsize 356
+\i (02:44:04) pick grid -2.7496 9.5466
+\t (02:44:04) last pick:  -2.7000 9.5000
+\w (02:44:04) WARNING(SPMHGE-604): No editable vertex was found.
+\i (02:44:06) shape select 
+\i (02:44:07) pick grid -3.6544 9.5751
+\t (02:44:07) last pick:  -3.7000 9.6000
+\i (02:44:08) drag_start grid -3.3694 9.5466
+\t (02:44:08) last pick:  -3.3694 9.5500
+\i (02:44:09) drag_stop grid -3.3694 9.2189
+\t (02:44:09) No DRC errors detected.
+\i (02:44:09) zoom out 1 
+\i (02:44:09) setwindow pcb
+\i (02:44:09) zoom out -3.3623 9.0408
+\i (02:44:09) trapsize 712
+\i (02:44:10) zoom out 1 
+\i (02:44:10) setwindow pcb
+\i (02:44:10) zoom out -3.2341 9.0266
+\i (02:44:10) trapsize 1425
+\i (02:44:10) roam start
+\i (02:44:10) roam x 16
+\i (02:44:10) roam y 32
+\i (02:44:10) roam x 32
+\i (02:44:10) roam y 48
+\i (02:44:10) roam x 16
+\i (02:44:10) roam y 80
+\i (02:44:10) roam x 16
+\i (02:44:10) roam y 96
+\i (02:44:10) roam x 16
+\i (02:44:10) roam y 64
+\i (02:44:10) roam y 80
+\i (02:44:10) roam y 32
+\i (02:44:10) roam y 32
+\i (02:44:10) roam x -16
+\i (02:44:10) roam y 32
+\i (02:44:11) roam x -16
+\i (02:44:11) roam y 48
+\i (02:44:11) roam end
+\i (02:44:11) zoom in 1 
+\i (02:44:11) setwindow pcb
+\i (02:44:11) zoom in -1.7380 -9.2040
+\i (02:44:11) trapsize 712
+\i (02:44:11) zoom in 1 
+\i (02:44:11) setwindow pcb
+\i (02:44:11) zoom in -1.7380 -9.2040
+\i (02:44:11) trapsize 356
+\i (02:44:11) zoom in 1 
+\i (02:44:11) setwindow pcb
+\i (02:44:11) zoom in -1.7380 -9.2040
+\i (02:44:11) trapsize 178
+\i (02:44:13) drag_start grid -1.5813 -9.5460
+\t (02:44:13) last pick:  -1.5813 -9.5500
+\i (02:44:14) drag_stop grid -1.5492 -9.2076
+\t (02:44:14) No DRC errors detected.
+\i (02:44:14) zoom out 1 
+\i (02:44:14) setwindow pcb
+\i (02:44:14) zoom out -1.3640 -9.5068
+\i (02:44:14) trapsize 356
+\i (02:44:14) zoom out 1 
+\i (02:44:14) setwindow pcb
+\i (02:44:14) zoom out -1.3283 -9.4783
+\i (02:44:14) trapsize 712
+\i (02:44:15) zoom out 1 
+\i (02:44:15) setwindow pcb
+\i (02:44:15) zoom out -1.2428 -9.4212
+\i (02:44:15) trapsize 1425
+\i (02:44:15) prepopup -1.4423 -3.7505
+\i (02:44:16) done 
+\i (02:44:16) generaledit 
+\i (02:44:17) save 
+\i (02:44:19) fillin yes 
+\t (02:44:20) Symbol 'is61wv51216bll-tsop44.psm' created.
+\i (02:44:20) generaledit 
+\i (02:44:24) open 
+\i (02:44:45) fillin "menu_cancel"
+\i (02:44:45) generaledit 
+\i (02:44:46) open 
+\i (02:45:02) fillin "E:\material\lool Inds Vibration\hardware\v2.0\pcb\vibration.brd"
+\i (02:45:02) cd "E:\material\lool Inds Vibration\hardware\v2.0\pcb"
+\t (02:45:02) Opening existing design...
+\i (02:45:03) trapsize 24549
+\i (02:45:03) trapsize 23859
+\i (02:45:03) trapsize 24549
+\i (02:45:03) trapsize 24549
+\t (02:45:03)     Journal end - Mon Jun 13 15:00:34 2016

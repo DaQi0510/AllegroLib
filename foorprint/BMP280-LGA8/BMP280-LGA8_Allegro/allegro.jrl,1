@@ -1,0 +1,41 @@
+\t (00:13:46) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:13:46)     Journal start - Fri Jun 10 17:11:52 2016
+\t (00:13:46)         Host=PSAI-PC User=psai Pid=9152 CPUs=4
+\t (00:13:46) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:13:46) 
+\d (00:13:46) Design opened: E:/cadence lib/foorprint/BMP280-LGA8/BMP280-LGA8_Allegro/BMP280-LGA8.dra
+\i (00:13:46) generaledit 
+\i (00:13:52) zoom in 1 
+\i (00:13:52) setwindow pcb
+\i (00:13:52) zoom in 1.3899 1.0806
+\i (00:13:52) trapsize 305
+\i (00:13:52) zoom in 1 
+\i (00:13:52) setwindow pcb
+\i (00:13:52) zoom in 0.0338 1.0806
+\i (00:13:52) trapsize 153
+\i (00:14:07) change 
+\i (00:16:48) change 
+\i (00:16:54) setwindow form.mini
+\i (00:16:54) FORM mini apply_subclass YES 
+\i (00:16:59) FORM mini change_subclass SILKSCREEN_TOP 
+\i (00:17:02) setwindow pcb
+\i (00:17:02) pick grid 1.4282 1.1295
+\t (00:17:02) last pick:  1.4000 1.1000
+\t (00:17:02) No DRC errors detected.
+\t (00:17:02) Changed 1 items out of 1 items found.
+\i (00:17:03) prepopup 1.5410 1.4346
+\i (00:17:04) done 
+\i (00:17:04) generaledit 
+\i (00:17:07) save 
+\i (00:17:09) fillin yes 
+\t (00:17:11) Symbol 'bmp280-lga8.psm' created.
+\i (00:17:11) generaledit 
+\i (00:17:16) open 
+\i (00:19:13) fillin "E:\material\glass\workspace\hardware\5.glass v1.0\extend-pcb\extend-pcb.brd"
+\i (00:19:13) cd "E:\material\glass\workspace\hardware\5.glass v1.0\extend-pcb"
+\t (00:19:13) Opening existing design...
+\i (00:19:14) trapsize 1260
+\i (00:19:14) trapsize 1224
+\i (00:19:14) trapsize 1260
+\i (00:19:14) trapsize 1260
+\t (00:19:14)     Journal end - Fri Jun 10 17:17:21 2016

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOIC-8N.dra                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Aug 17 16:00:59 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/SOIC-8N/SOIC-8N_Allegro
+    Name      = soic-8n.psm
+    User      = DaQi
+    Machine   = DESKTOP-5QD1SMV
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,21 @@
+\t (00:00:43) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:43)     Journal start - Sun Apr 24 15:41:17 2016
+\t (00:00:43)         Host=PSAI-PC User=psai Pid=7552 CPUs=4
+\t (00:00:43) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:43) 
+\d (00:00:43) Design opened: E:/cadence lib/foorprint/L-6-6-3/l-6-6-3.dra
+\i (00:00:43) generaledit 
+\e (00:01:20) Command not found: ~M
+\i (00:01:21) show measure 
+\i (00:01:29) pick grid -2.9828 2.6792
+\t (00:01:29) last pick:  -3.1750 2.5400
+\i (00:01:30) pick grid 2.9833 2.6651
+\t (00:01:30) last pick:  3.1750 2.5400
+\i (00:01:33) setwindow text
+\i (00:01:33) close 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) prepopup 5.2312 2.1137
+\i (00:01:36) cancel 
+\i (00:01:36) generaledit 
+\i (00:01:40) exit 
+\t (00:01:40)     Journal end - Sun Apr 24 15:42:15 2016

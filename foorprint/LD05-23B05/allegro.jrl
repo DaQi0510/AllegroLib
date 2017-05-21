@@ -1,0 +1,23 @@
+\t (00:00:02) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:02)     Journal start - Sun Apr 09 17:23:54 2017
+\t (00:00:02)         Host=DAQI-PC User=DaQi Pid=7608 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/LD05-23B05/LD05-23B05.dra
+\i (00:00:05) trapsize 12139
+\i (00:00:05) trapsize 11812
+\i (00:00:05) trapsize 12195
+\i (00:00:07) trapsize 10163
+\i (00:00:07) trapsize 10163
+\i (00:00:07) generaledit 
+\i (00:00:09) open 
+\i (00:00:30) fillin "F:\计量采集模块部分\Ven1.0\Pcb\DataCollection.brd"
+\i (00:00:30) cd "F:\计量采集模块部分\Ven1.0\Pcb"
+\t (00:00:30) Opening existing design...
+\i (00:00:31) trapsize 12503
+\i (00:00:31) trapsize 12174
+\i (00:00:31) trapsize 12503
+\i (00:00:33) trapsize 12503
+\t (00:00:33)     Journal end - Sun Apr 09 17:24:25 2017

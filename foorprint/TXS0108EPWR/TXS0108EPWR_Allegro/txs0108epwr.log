@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TXS0108EPWR.dra                               )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sun Mar 05 11:25:36 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/TXS0108EPWR/TXS0108EPWR_Allegro
+    Name      = txs0108epwr.psm
+    User      = DaQi
+    Machine   = DAQI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

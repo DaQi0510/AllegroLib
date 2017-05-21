@@ -1,0 +1,13 @@
+\t (00:00:57) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:57)     Journal start - Mon Apr 18 09:39:01 2016
+\t (00:00:57)         Host=PSAI-PC User=psai Pid=5308 CPUs=4
+\t (00:00:57) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:57) 
+\d (00:00:57) Design opened: E:/cadence lib/foorprint/CAP-8-10/cap-8-10.dra
+\i (00:00:57) generaledit 
+\i (00:09:06) open 
+\i (00:09:16) fillin "E:\cadence lib\foorprint\CAP-6032\cap-6032.dra"
+\i (00:09:16) cd "E:\cadence lib\foorprint\CAP-6032"
+\t (00:09:16) Opening existing design...
+\i (00:09:16) trapsize 1414
+\t (00:09:17)     Journal end - Mon Apr 18 09:47:21 2016

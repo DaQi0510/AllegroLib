@@ -1,0 +1,10 @@
+\t (00:03:55) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:03:55)     Journal start - Sun May 15 17:53:37 2016
+\t (00:03:55)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:03:55) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:03:55) 
+\i (00:03:56) FORM padedit parameters  
+\i (00:03:58) pse_open 
+\i (00:04:54) fillin "E:\cadence lib\foorprint\MOLEX-2\c150h100.pad"
+\i (00:04:54) cd "E:\cadence lib\foorprint\MOLEX-2"
+\t (00:04:54)     Journal end - Sun May 15 17:54:35 2016

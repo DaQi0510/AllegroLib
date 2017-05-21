@@ -1,0 +1,54 @@
+\t (00:00:22) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:22)     Journal start - Fri May 05 11:01:53 2017
+\t (00:00:22)         Host=DAQI-PC User=DaQi Pid=10596 CPUs=4
+\t (00:00:22) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
+\t (00:00:22) 
+\i (00:00:27) FORM padedit layers  
+\i (00:00:45) pse_open 
+\i (00:00:51) fillin "h160.pad"
+\i (00:00:51) FORM padedit grid row soldermask_top 
+\i (00:00:52) FORM padedit parameters  
+\i (00:00:55) FORM padedit layers  
+\i (00:00:58) FORM padedit grid row begin_layer 
+\i (00:01:01) FORM padedit grid row default_internal 
+\i (00:01:03) FORM padedit grid row begin_layer 
+\i (00:01:07) FORM padedit width 1.6 
+\i (00:01:16) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:17) FORM padedit grid row default_internal 
+\i (00:01:20) FORM padedit grid rpopup default_internal Paste 
+\i (00:01:23) FORM padedit grid row end_layer 
+\i (00:01:25) FORM padedit grid rpopup end_layer Paste 
+\i (00:01:27) FORM padedit grid row soldermask_top 
+\i (00:01:28) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:01:29) FORM padedit grid row soldermask_bottom 
+\i (00:01:30) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:01:37) pse_save 
+\i (00:01:39) setwindow text
+\i (00:01:39) close 
+\i (00:01:40) fillin yes 
+\i (00:01:42) fillin yes 
+\i (00:01:47) setwindow form.padedit
+\i (00:01:47) pse_open 
+\i (00:01:52) fillin "h110.pad"
+\i (00:01:52) FORM padedit grid row soldermask_top 
+\i (00:01:56) FORM padedit parameters  
+\i (00:01:58) FORM padedit layers  
+\i (00:02:01) FORM padedit grid row begin_layer 
+\i (00:02:05) FORM padedit width 1.1 
+\i (00:02:11) FORM padedit grid rpopup begin_layer Copy 
+\i (00:02:12) FORM padedit grid row default_internal 
+\i (00:02:13) FORM padedit grid rpopup default_internal Paste 
+\i (00:02:14) FORM padedit grid row end_layer 
+\i (00:02:15) FORM padedit grid rpopup end_layer Paste 
+\i (00:02:17) FORM padedit grid row soldermask_top 
+\i (00:02:19) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:02:20) FORM padedit grid row soldermask_bottom 
+\i (00:02:21) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:02:24) pse_save 
+\i (00:02:25) setwindow text
+\i (00:02:25) close 
+\i (00:02:26) fillin yes 
+\i (00:02:27) fillin yes 
+\i (00:02:28) setwindow form.padedit
+\i (00:02:28) pse_exit
+\t (00:02:28)     Journal end - Fri May 05 11:04:00 2017

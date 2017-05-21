@@ -1,0 +1,77 @@
+\t (00:00:06) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:06)     Journal start - Sat Jan 21 10:56:03 2017
+\t (00:00:06)         Host=DAQI-PC User=DaQi Pid=6568 CPUs=4
+\t (00:00:06) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/MINI-PCIe/MINI-PCIe.dra
+\i (00:00:07) trapsize 4552
+\i (00:00:07) trapsize 4430
+\i (00:00:07) trapsize 4573
+\i (00:00:09) trapsize 3811
+\i (00:00:09) trapsize 3811
+\i (00:00:09) generaledit 
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 34.3913 5.2178
+\i (00:00:13) trapsize 1906
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 34.3914 5.2178
+\i (00:00:13) trapsize 953
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 34.3914 5.2178
+\i (00:00:13) trapsize 476
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 34.3914 5.2179
+\i (00:00:13) trapsize 238
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 34.3915 5.2179
+\i (00:00:13) trapsize 119
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 34.3915 5.2180
+\i (00:00:13) trapsize 60
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 34.3915 5.2180
+\i (00:00:14) trapsize 119
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 34.3915 5.2180
+\i (00:00:14) trapsize 238
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 34.3915 5.2180
+\i (00:00:14) trapsize 476
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 34.3916 5.2181
+\i (00:00:14) trapsize 953
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 34.3915 5.2181
+\i (00:00:14) trapsize 1906
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 34.3915 5.2180
+\i (00:00:14) trapsize 3811
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 34.3957 5.2180
+\i (00:00:14) trapsize 7623
+\i (00:00:19) open 
+\i (00:00:41) fillin "F:\Vibration\lool-Inds-Vibration\hardware\v2.0\pcb\vibration.brd"
+\i (00:00:41) cd "F:\Vibration\lool-Inds-Vibration\hardware\v2.0\pcb"
+\t (00:00:41) Opening existing design...
+\w (00:00:42) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: DiffPair Static Phase, Constraint Regions.  [help]
+\i (00:00:44) fillin confirm
+\i (00:00:45) trapsize 8446
+\i (00:00:45) trapsize 8224
+\i (00:00:45) trapsize 8446
+\i (00:00:47) trapsize 8446
+\t (00:00:47)     Journal end - Sat Jan 21 10:56:44 2017

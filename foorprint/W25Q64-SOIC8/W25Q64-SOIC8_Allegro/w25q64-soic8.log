@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : W25Q64-SOIC8.dra                              )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Mar 08 20:36:40 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/W25Q64-SOIC8/W25Q64-SOIC8_Allegro
+    Name      = w25q64-soic8.psm
+    User      = DaQi
+    Machine   = DAQI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

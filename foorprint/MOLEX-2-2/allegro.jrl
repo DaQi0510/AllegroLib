@@ -1,0 +1,46 @@
+\t (01:03:15) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (01:03:15)     Journal start - Wed Apr 27 12:33:00 2016
+\t (01:03:15)         Host=PSAI-PC User=psai Pid=49920 CPUs=4
+\t (01:03:15) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (01:03:15) 
+\d (01:03:15) Design opened: E:/cadence lib/foorprint/MOLEX-2-2/molex-2-2.dra
+\i (01:03:17) zoom in 1 
+\i (01:03:17) setwindow pcb
+\i (01:03:17) zoom in 1.2611 -0.7594
+\i (01:03:17) trapsize 902
+\i (01:03:19) roam start
+\i (01:03:19) roam y -80
+\i (01:03:20) roam x -16
+\i (01:03:20) roam y -80
+\i (01:03:20) roam y -32
+\i (01:03:20) roam end
+\i (01:03:23) text edit 
+\i (01:03:30) pick grid -1.4347 3.2014
+\t (01:03:30) last pick:  -1.4000 3.2000
+\i (01:03:32) setwindow pcb
+\i (01:03:32) pick grid -4.3751 0.0085
+\t (01:03:32) last pick:  -4.4000 0.0000
+\i (01:03:32) setwindow pcb
+\i (01:03:32) pick -1.4347 3.2014
+\t (01:03:32) Pick text to edit.
+\i (01:03:34) setwindow pcb
+\i (01:03:34) prepopup -5.2590 6.7370
+\i (01:03:34) done 
+\i (01:03:34) setwindow pcb
+\i (01:03:34) pick -4.3751 0.0085
+\t (01:03:34) Pick text to edit.
+\i (01:03:36) setwindow pcb
+\i (01:03:36) save 
+\i (01:03:38) fillin yes 
+\t (01:03:38) Symbol 'molex-2-2.psm' created.
+\i (01:03:40) open 
+\i (01:03:42) fillin "molex-2-2.dra"
+\t (01:03:42) Opening existing design...
+\i (01:03:42) trapsize 902
+\d (01:03:42) Design opened: E:/cadence lib/foorprint/MOLEX-2-2/molex-2-2.dra
+\i (01:03:43) open 
+\i (01:03:47) fillin "E:\cadence lib\foorprint\MOLEX-2\molex-2.dra"
+\i (01:03:47) cd "E:\cadence lib\foorprint\MOLEX-2"
+\t (01:03:47) Opening existing design...
+\i (01:03:47) trapsize 902
+\t (01:03:47)     Journal end - Wed Apr 27 12:33:31 2016

@@ -1,0 +1,22 @@
+\t (06:54:40) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (06:54:40)     Journal start - Mon Apr 10 16:03:37 2017
+\t (06:54:40)         Host=DAQI-PC User=DaQi Pid=1320 CPUs=4
+\t (06:54:40) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (06:54:40) 
+\d (06:54:40) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/STM32F103_LQFP64/STM32F103_LQFP64/STM32F103_LQFP64_Allegro/STM32F103_LQFP64.dra
+\i (06:54:40) zoom out 1 
+\i (06:54:40) setwindow pcb
+\i (06:54:40) zoom out 8.4475 1.1252
+\i (06:54:40) trapsize 754
+\i (06:54:40) generaledit 
+\i (06:54:56) show measure 
+\i (06:55:00) pick grid 9.5033 2.0151
+\t (06:55:00) last pick:  9.5250 1.9050
+\i (06:55:07) setwindow text
+\i (06:55:07) close 
+\i (06:55:09) setwindow pcb
+\i (06:55:09) prepopup 9.7597 3.2369
+\i (06:55:10) done 
+\i (06:55:10) generaledit 
+\i (06:55:27) exit 
+\t (06:55:29)     Journal end - Mon Apr 10 16:04:26 2017

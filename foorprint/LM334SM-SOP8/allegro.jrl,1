@@ -1,0 +1,23 @@
+\t (00:02:52) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:02:52)     Journal start - Fri Apr 07 17:22:58 2017
+\t (00:02:52)         Host=DAQI-PC User=DaQi Pid=10908 CPUs=4
+\t (00:02:52) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:02:52) 
+\d (00:02:52) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/LM334SM-SOP8/lm334sm-sop8.dra
+\i (00:02:52) generaledit 
+\i (00:02:58) show measure 
+\i (00:03:00) setwindow form.find
+\i (00:03:00) FORM find all_off  
+\i (00:03:01) FORM find pins YES 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) pick grid -2.7236 1.7480
+\t (00:03:02) last pick:  -2.5400 1.9050
+\i (00:03:03) pick grid 2.7642 1.7886
+\t (00:03:03) last pick:  2.5400 1.9050
+\i (00:04:10) setwindow text
+\i (00:04:10) close 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) exit 
+\e (00:04:11) Do you want to save the changes you made to lm334sm-sop8.dra?
+\i (00:04:12) fillin no 
+\t (00:04:13)     Journal end - Fri Apr 07 17:24:19 2017

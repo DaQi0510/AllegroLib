@@ -1,0 +1,29 @@
+\t (00:06:46) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:06:46)     Journal start - Mon Feb 13 08:59:09 2017
+\t (00:06:46)         Host=DAQI-PC User=DaQi Pid=7688 CPUs=4
+\t (00:06:46) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:06:46) 
+\d (00:06:46) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/CAP-3528/cap-3528.dra
+\i (00:06:46) generaledit 
+\i (00:06:47) zoom in 1 
+\i (00:06:47) setwindow pcb
+\i (00:06:47) zoom in 1.0176 -1.0832
+\i (00:06:47) trapsize 821
+\i (00:07:08) zoom in 1 
+\i (00:07:08) setwindow pcb
+\i (00:07:08) zoom in 0.3939 -1.2966
+\i (00:07:08) trapsize 410
+\i (00:07:08) zoom in 1 
+\i (00:07:08) setwindow pcb
+\i (00:07:08) zoom in 0.3940 -1.2965
+\i (00:07:08) trapsize 205
+\i (00:07:11) zoom out 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom out 1.4485 -1.2800
+\i (00:07:11) trapsize 410
+\i (00:07:27) open 
+\i (00:07:31) fillin "F:\CADENCE LIB\cadence-lib-new\foorprint\CAP-3216\CAP-3216.dra"
+\i (00:07:31) cd "F:\CADENCE LIB\cadence-lib-new\foorprint\CAP-3216"
+\t (00:07:31) Opening existing design...
+\i (00:07:31) trapsize 1270
+\t (00:07:31)     Journal end - Mon Feb 13 08:59:54 2017

@@ -1,0 +1,11 @@
+\t (00:03:39) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:03:39)     Journal start - Sun May 15 17:53:20 2016
+\t (00:03:39)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:03:39) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:03:39) 
+\i (00:03:40) pse_open 
+\i (00:03:41) fillin "s150h90.pad"
+\i (00:03:43) pse_open 
+\i (00:03:55) fillin "E:\cadence lib\foorprint\MINI-KEY\r150_80.pad"
+\i (00:03:55) cd "E:\cadence lib\foorprint\MINI-KEY"
+\t (00:03:55)     Journal end - Sun May 15 17:53:37 2016

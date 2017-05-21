@@ -1,0 +1,23 @@
+\t (00:00:00) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:00)     Journal start - Tue May 02 09:54:30 2017
+\t (00:00:00)         Host=DAQI-PC User=DaQi Pid=10016 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/TPS54320RHL/TPS54320RHL.dra
+\i (00:00:02) trapsize 439
+\i (00:00:02) trapsize 431
+\i (00:00:02) trapsize 440
+\i (00:00:04) trapsize 389
+\i (00:00:04) trapsize 389
+\i (00:00:04) generaledit 
+\i (00:00:19) open 
+\i (00:00:47) fillin "F:\对外部分项目\漏液检测\Ven1.0\Pcb\Pcb.brd"
+\i (00:00:47) cd "F:\对外部分项目\漏液检测\Ven1.0\Pcb"
+\t (00:00:48) Opening existing design...
+\i (00:00:49) trapsize 2926
+\i (00:00:49) trapsize 2872
+\i (00:00:49) trapsize 2926
+\i (00:00:51) trapsize 2926
+\t (00:00:51)     Journal end - Tue May 02 09:55:21 2017

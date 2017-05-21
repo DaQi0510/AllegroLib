@@ -1,0 +1,35 @@
+\t (00:00:02) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:02)     Journal start - Mon Feb 20 15:51:07 2017
+\t (00:00:02)         Host=DAQI-PC User=DaQi Pid=5740 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/74lLVC4245-PW/74lLVC4245-PW_Allegro/74lLVC4245-PW.dra
+\i (00:00:04) trapsize 2098
+\i (00:00:04) trapsize 2041
+\i (00:00:04) trapsize 2107
+\i (00:00:06) trapsize 1756
+\i (00:00:06) trapsize 1756
+\i (00:00:06) generaledit 
+\i (00:04:28) zoom in 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom in -2.5850 2.6050
+\i (00:04:28) trapsize 878
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out -2.4270 2.3241
+\i (00:04:29) trapsize 1756
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out -2.2338 2.2538
+\i (00:04:29) trapsize 3512
+\i (00:04:31) open 
+\i (00:06:27) fillin "F:\对外部分项目\信号发生器改版\Hardware\Pcb\DDS.brd"
+\i (00:06:27) cd "F:\对外部分项目\信号发生器改版\Hardware\Pcb"
+\t (00:06:27) Opening existing design...
+\i (00:06:29) trapsize 66562
+\i (00:06:29) trapsize 64812
+\i (00:06:29) trapsize 66562
+\i (00:06:31) trapsize 66562
+\t (00:06:31)     Journal end - Mon Feb 20 15:57:36 2017

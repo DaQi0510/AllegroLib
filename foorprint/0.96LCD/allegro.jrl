@@ -1,0 +1,84 @@
+\t (00:00:29) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:29)     Journal start - Wed Feb 15 21:39:46 2017
+\t (00:00:29)         Host=DAQI-PC User=DaQi Pid=6344 CPUs=4
+\t (00:00:29) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:29) 
+\d (00:00:29) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/0.96LCD/OLED.dra
+\i (00:00:29) generaledit 
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 17.9472 2.8811
+\i (00:00:31) trapsize 5081
+\e (00:00:59) Command not found: xhilite
+\i (00:00:59) xname_flush 
+\i (00:00:59) done 
+\i (00:00:59) generaledit 
+\e (00:01:08) Command not found: xdehilite
+\i (00:01:08) xname_flush 
+\i (00:01:08) done 
+\i (00:01:08) generaledit 
+\e (00:01:08) Command not found: xhilite
+\i (00:01:08) xname_flush 
+\i (00:01:08) done 
+\i (00:01:08) generaledit 
+\e (00:01:09) Command not found: xdehilite
+\i (00:01:09) xname_flush 
+\i (00:01:10) done 
+\i (00:01:10) generaledit 
+\e (00:01:10) Command not found: xhilite
+\i (00:01:10) xname_flush 
+\i (00:01:10) done 
+\i (00:01:10) generaledit 
+\e (00:01:22) Command not found: xhilite
+\i (00:01:22) xname_flush 
+\i (00:01:22) done 
+\i (00:01:22) generaledit 
+\e (00:01:24) Command not found: xhilite
+\i (00:01:24) xname_flush 
+\i (00:01:24) done 
+\i (00:01:24) generaledit 
+\e (00:01:36) Command not found: xdehilite
+\i (00:01:36) xname_flush 
+\i (00:01:36) done 
+\i (00:01:36) generaledit 
+\e (00:01:49) Command not found: xhilite
+\i (00:01:49) xname_flush 
+\i (00:01:49) done 
+\i (00:01:49) generaledit 
+\e (00:01:51) Command not found: xdehilite
+\i (00:01:51) xname_flush 
+\i (00:01:51) done 
+\i (00:01:51) generaledit 
+\e (00:01:56) Command not found: xhilite
+\i (00:01:56) xname_flush 
+\i (00:01:56) done 
+\i (00:01:56) generaledit 
+\e (00:01:57) Command not found: xdehilite
+\i (00:01:57) xname_flush 
+\i (00:01:57) done 
+\i (00:01:57) generaledit 
+\e (00:01:58) Command not found: xhilite
+\i (00:01:58) xname_flush 
+\i (00:01:58) done 
+\i (00:01:58) generaledit 
+\e (00:02:06) Command not found: xdehilite
+\i (00:02:06) xname_flush 
+\i (00:02:06) done 
+\i (00:02:06) generaledit 
+\e (00:02:07) Command not found: xhilite
+\i (00:02:07) xname_flush 
+\i (00:02:07) done 
+\i (00:02:07) generaledit 
+\i (00:03:13) zoom out 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom out 44.7764 -14.0650
+\i (00:03:13) trapsize 5081
+\i (00:03:15) open 
+\i (00:03:33) fillin "F:\对外部分项目\信号发生器改版\Hardware\Pcb\DDS.brd"
+\i (00:03:33) cd "F:\对外部分项目\信号发生器改版\Hardware\Pcb"
+\t (00:03:33) Opening existing design...
+\i (00:03:34) trapsize 2541
+\i (00:03:34) trapsize 2474
+\i (00:03:34) trapsize 2541
+\i (00:03:36) trapsize 2541
+\t (00:03:36)     Journal end - Wed Feb 15 21:42:53 2017

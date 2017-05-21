@@ -1,0 +1,13 @@
+\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:00)     Journal start - Fri Mar 24 09:40:18 2017
+\t (00:00:00)         Host=DAQI-PC User=DaQi Pid=10876 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:01:14) setwindow form.padedit
+\i (00:01:14) pse_open 
+\i (00:01:16) fillin "b77_40.pad"
+\i (00:01:23) pse_open 
+\i (00:01:33) fillin "menu_cancel"
+\i (00:02:03) pse_new 
+\i (00:03:29) fillin "r100_330.pad"
+\t (00:03:29)     Journal end - Fri Mar 24 09:43:47 2017

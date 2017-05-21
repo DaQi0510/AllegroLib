@@ -1,0 +1,26 @@
+\t (00:00:07) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:07)     Journal start - Sun Apr 16 21:28:02 2017
+\t (00:00:07)         Host=DAQI-PC User=DaQi Pid=14696 CPUs=4
+\t (00:00:07) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\d (00:00:09) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/AQW610EH/AQW610EH.dra
+\i (00:00:09) trapsize 2428
+\i (00:00:09) trapsize 2362
+\i (00:00:09) trapsize 2439
+\i (00:00:11) trapsize 2033
+\i (00:00:11) trapsize 2033
+\i (00:00:12) generaledit 
+\i (00:00:13) prepopup 10.6504 0.5284
+\t (00:00:14) last pick:  10.6097 1.4634
+\w (00:00:14) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:00:29) open 
+\i (00:01:05) fillin "F:\对外部分项目\信号发生器改版\Hardware\Pcb\DDS.brd"
+\i (00:01:05) cd "F:\对外部分项目\信号发生器改版\Hardware\Pcb"
+\t (00:01:05) Opening existing design...
+\i (00:01:07) trapsize 13486
+\i (00:01:07) trapsize 13132
+\i (00:01:07) trapsize 13486
+\i (00:01:09) trapsize 13541
+\t (00:01:09)     Journal end - Sun Apr 16 21:29:04 2017

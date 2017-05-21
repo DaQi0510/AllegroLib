@@ -1,0 +1,54 @@
+\t (00:03:29) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:03:29)     Journal start - Fri Mar 24 09:43:47 2017
+\t (00:03:29)         Host=DAQI-PC User=DaQi Pid=10876 CPUs=4
+\t (00:03:29) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
+\t (00:03:29) 
+\i (00:03:34) FORM padedit layers  
+\i (00:03:37) FORM padedit single YES 
+\i (00:03:42) FORM padedit geometry Rectangle 
+\i (00:03:52) FORM padedit parameters  
+\i (00:03:54) FORM padedit units Millimeter 
+\i (00:03:55) fillin yes 
+\w (00:03:55) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:56) FORM padedit layers  
+\i (00:04:04) FORM padedit width 1 
+\i (00:04:08) FORM padedit height 3.3 
+\i (00:04:09) FORM padedit crossbox YES 
+\i (00:04:16) FORM padedit grid row begin_layer 
+\i (00:04:17) FORM padedit grid row soldermask_top 
+\i (00:04:18) FORM padedit grid row soldermask_bottom 
+\i (00:04:20) FORM padedit grid row pastemask_top 
+\i (00:04:21) FORM padedit grid row pastemask_bottom 
+\i (00:04:24) FORM padedit grid row begin_layer 
+\i (00:04:29) FORM padedit grid row soldermask_bottom 
+\i (00:04:30) FORM padedit grid row begin_layer 
+\i (00:04:32) FORM padedit grid rpopup begin_layer Copy 
+\i (00:04:35) FORM padedit grid row soldermask_top 
+\i (00:04:37) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:04:42) FORM padedit grid row pastemask_top 
+\i (00:04:45) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:05:06) pse_save 
+\i (00:05:09) pse_new 
+\i (00:05:37) fillin "r150_320.pad"
+\i (00:05:39) FORM padedit single YES 
+\i (00:05:42) FORM padedit geometry Rectangle 
+\i (00:05:46) FORM padedit width 1.5 
+\i (00:05:47) FORM padedit parameters  
+\i (00:05:49) FORM padedit units Millimeter 
+\i (00:05:51) fillin yes 
+\w (00:05:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:52) FORM padedit layers  
+\i (00:05:56) FORM padedit width 1.5 
+\i (00:05:59) FORM padedit height 3.3 
+\i (00:06:10) FORM padedit height 3.2000 
+\i (00:06:15) FORM padedit grid row begin_layer 
+\i (00:06:17) FORM padedit grid rpopup begin_layer Copy 
+\i (00:06:18) FORM padedit grid row soldermask_top 
+\i (00:06:19) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:06:21) FORM padedit grid row pastemask_top 
+\i (00:06:23) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:07:28) pse_save 
+\i (00:07:31) FORM padedit grid row soldermask_top 
+\i (00:07:32) FORM padedit grid row pastemask_top 
+\i (00:07:35) pse_exit
+\t (00:07:35)     Journal end - Fri Mar 24 09:47:54 2017

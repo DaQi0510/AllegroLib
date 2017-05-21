@@ -1,0 +1,29 @@
+\t (00:00:05) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:05)     Journal start - Wed Feb 15 15:38:51 2017
+\t (00:00:05)         Host=DAQI-PC User=DaQi Pid=11424 CPUs=4
+\t (00:00:05) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/LED0805/LED0805.dra
+\i (00:00:06) trapsize 952
+\i (00:00:06) trapsize 926
+\i (00:00:07) trapsize 956
+\i (00:00:08) trapsize 797
+\i (00:00:08) trapsize 797
+\i (00:00:09) generaledit 
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 1.5582 -0.7667
+\i (00:00:13) trapsize 398
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -0.8847 -0.7507
+\i (00:00:13) trapsize 199
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 0.3422 -0.7906
+\i (00:00:13) trapsize 398
+\i (00:00:18) new 
+\i (00:00:43) newdrawfillin "DDS.brd" "Board"
+\t (00:00:43)     Journal end - Wed Feb 15 15:39:30 2017

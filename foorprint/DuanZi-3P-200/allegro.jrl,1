@@ -1,0 +1,150 @@
+\t (00:00:32) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:32)     Journal start - Mon Feb 13 20:11:19 2017
+\t (00:00:32)         Host=DAQI-PC User=DaQi Pid=12700 CPUs=4
+\t (00:00:32) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:32) 
+\d (00:00:32) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/DuanZi-3P-200/DuanZi-3P-200.dra
+\i (00:00:33) generaledit 
+\i (00:00:37) add pin 
+\t (00:00:37) Using 'C150H90.pad'.
+\i (00:00:47) setwindow form.mini
+\i (00:00:47) FORM mini next_pin_number 1 
+\i (00:00:49) FORM mini x_spacing 2.0000 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) pick 0 0 
+\t (00:00:59) last pick:  0.0000 0.0000
+\t (00:00:59) Using 'C150H90.pad'.
+\i (00:01:01) prepopup 5.6124 2.6145
+\i (00:01:02) done 
+\t (00:01:02) Exiting from Add Pin.
+\i (00:01:02) generaledit 
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 3.7578 0.2898
+\i (00:01:04) trapsize 1270
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 0.4421 -0.4216
+\i (00:01:05) trapsize 635
+\i (00:02:18) add line 
+\i (00:02:24) setwindow form.mini
+\i (00:02:24) FORM mini class PACKAGE GEOMETRY 
+\i (00:02:27) FORM mini subclass SILKSCREEN_TOP 
+\i (00:02:34) FORM mini line_width 0.2000 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) pick -2 1.6 
+\t (00:02:54) last pick:  -2.0000 1.6000
+\i (00:03:02) pick 6 1.6 
+\t (00:03:02) last pick:  6.0000 1.6000
+\i (00:03:29) ipick 0 -4.6 
+\t (00:03:29) last pick:  6.0000 -3.0000
+\i (00:03:39) ipick -8 
+\t (00:03:39) last pick:  -2.0000 -3.0000
+\i (00:03:46) ipick 0 4.6 
+\t (00:03:46) last pick:  -2.0000 1.6000
+\i (00:03:48) prepopup -2.0731 0.8995
+\i (00:03:48) done 
+\i (00:03:48) generaledit 
+\i (00:04:37) zoom out 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom out 4.0371 -0.5359
+\i (00:04:37) trapsize 1270
+\i (00:04:41) add rect 
+\i (00:04:46) setwindow form.mini
+\i (00:04:46) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom in 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom in -1.3110 0.7598
+\i (00:04:46) trapsize 635
+\i (00:04:47) zoom in 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom in -1.3110 0.7598
+\i (00:04:47) trapsize 318
+\i (00:04:47) zoom in 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom in -1.2665 0.7980
+\i (00:04:47) trapsize 159
+\i (00:04:47) zoom out 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom out -1.3966 0.8298
+\i (00:04:47) trapsize 318
+\i (00:04:47) zoom out 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom out -1.3903 0.7981
+\i (00:04:47) trapsize 635
+\i (00:04:49) pick grid -1.9875 1.5729
+\t (00:04:49) last pick:  -1.9870 1.5730
+\i (00:04:50) zoom out 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom out 3.5131 -0.5104
+\i (00:04:50) trapsize 1270
+\i (00:04:50) zoom out 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom out 7.6578 -0.5105
+\i (00:04:50) trapsize 2541
+\i (00:04:50) zoom out 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom out 25.3151 -0.1423
+\i (00:04:50) trapsize 2541
+\i (00:04:51) zoom in 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom in 7.3272 -3.8008
+\i (00:04:51) trapsize 1270
+\i (00:04:51) zoom in 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom in -1.3364 -3.8008
+\i (00:04:51) trapsize 635
+\i (00:04:55) pick grid 6.0188 -3.0005
+\t (00:04:55) last pick:  6.0190 -3.0000
+\i (00:04:56) zoom out 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom out -0.0915 -2.7718
+\i (00:04:56) trapsize 1270
+\i (00:04:57) prepopup 9.8171 -1.1205
+\i (00:04:57) done 
+\i (00:04:57) generaledit 
+\i (00:04:59) zoom in 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom in -2.8608 0.8358
+\i (00:04:59) trapsize 635
+\i (00:05:02) add text 
+\t (00:05:02) Pick text location.
+\i (00:05:07) setwindow form.mini
+\i (00:05:07) FORM mini class REF DES 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) pick grid 1.3440 -1.3618
+\t (00:05:10) last pick:  1.3440 -1.3620
+\t (00:05:10) Enter text string.
+\i (00:05:15) setwindow pcb
+\i (00:05:15) prepopup 4.8374 -1.1967
+\i (00:05:16) done 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) pick 1.3440 -1.3620
+\i (00:05:16) setwindow pcb
+\i (00:05:16) generaledit 
+\i (00:05:19) setwindow form.find
+\i (00:05:19) FORM find all_off  
+\i (00:05:20) FORM find text YES 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) move 
+\t (00:05:25) Select element(s) to move.
+\i (00:05:27) pick grid 1.9283 -1.1840
+\t (00:05:27) last pick:  1.9280 -1.1840
+\t (00:05:27) last pick:  1.3440 -1.3620
+\t (00:05:27) Pick new location for the element(s).
+\i (00:05:30) pick grid 1.3567 -1.9843
+\t (00:05:30) last pick:  1.3570 -1.9840
+\i (00:05:30) prepopup 7.4034 -0.4091
+\i (00:05:31) done 
+\i (00:05:31) generaledit 
+\i (00:06:08) zoom out 1 
+\i (00:06:08) setwindow pcb
+\i (00:06:08) zoom out -3.7119 0.6072
+\i (00:06:08) trapsize 1270
+\i (00:06:10) save 
+\i (00:06:11) fillin yes 
+\t (00:06:12) Symbol 'duanzi-3p-200.psm' created.
+\i (00:06:12) generaledit 
+\i (00:06:15) exit 
+\t (00:06:16)     Journal end - Mon Feb 13 20:17:02 2017

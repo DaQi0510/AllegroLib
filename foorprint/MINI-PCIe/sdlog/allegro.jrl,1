@@ -1,0 +1,162 @@
+\t (00:00:47) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:47)     Journal start - Fri May 05 11:39:11 2017
+\t (00:00:47)         Host=DAQI-PC User=DaQi Pid=11632 CPUs=4
+\t (00:00:47) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:47) 
+\d (00:00:47) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/MINI-PCIe/MINI-PCIe.dra
+\i (00:00:47) generaledit 
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 15.0484 55.5569
+\i (00:00:48) trapsize 3289
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 41.2482 55.5570
+\i (00:00:48) trapsize 6579
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 50.6558 48.4519
+\i (00:00:49) trapsize 13157
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 1.8416 18.9463
+\i (00:00:54) trapsize 6579
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 2.6310 4.8678
+\i (00:00:55) trapsize 3289
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 33.7484 30.3933
+\i (00:00:55) trapsize 6579
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 56.4451 38.9457
+\i (00:00:55) trapsize 13157
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 1.3153 -3.4214
+\i (00:00:56) trapsize 6579
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 2.6311 -3.8161
+\i (00:00:56) trapsize 3289
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 2.7627 -3.8161
+\i (00:00:56) trapsize 1645
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in 21.8411 0.3614
+\i (00:00:57) trapsize 822
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in 26.1173 -0.2635
+\i (00:00:57) trapsize 411
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in 26.1502 -0.2635
+\i (00:00:58) trapsize 206
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 26.1379 -0.2594
+\i (00:00:58) trapsize 411
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 26.1379 -0.2593
+\i (00:00:58) trapsize 822
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 26.1379 -0.2594
+\i (00:00:58) trapsize 1645
+\i (00:00:59) zoom out 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom out 26.1379 -0.2593
+\i (00:00:59) trapsize 3289
+\i (00:00:59) zoom out 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom out 45.1954 -0.2594
+\i (00:00:59) trapsize 6579
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in 4.8678 51.4453
+\i (00:01:00) trapsize 3289
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in 3.6836 51.0506
+\i (00:01:00) trapsize 1645
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in 3.4534 51.2480
+\i (00:01:00) trapsize 822
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 23.8310 50.9027
+\i (00:01:01) trapsize 411
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 23.8968 50.8781
+\i (00:01:01) trapsize 822
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 11.1999 50.6149
+\i (00:01:02) trapsize 1645
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 15.9037 50.3846
+\i (00:01:02) trapsize 3289
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 0.1311 50.3188
+\i (00:01:02) trapsize 1645
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 0.0654 50.3846
+\i (00:01:02) trapsize 822
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in 0.0489 50.4010
+\i (00:01:02) trapsize 411
+\e (00:06:13) Command not found: xhilite
+\i (00:06:13) xname_flush 
+\i (00:06:13) done 
+\i (00:06:13) generaledit 
+\e (00:06:17) Command not found: xhilite
+\i (00:06:17) xname_flush 
+\i (00:06:17) done 
+\i (00:06:17) generaledit 
+\e (00:06:25) Command not found: xdehilite
+\i (00:06:25) xname_flush 
+\i (00:06:25) done 
+\i (00:06:25) generaledit 
+\e (00:06:50) Command not found: xhilite
+\i (00:06:50) xname_flush 
+\i (00:06:50) done 
+\i (00:06:50) generaledit 
+\e (00:06:57) Command not found: xdehilite
+\i (00:06:57) xname_flush 
+\i (00:06:57) done 
+\e (00:06:57) Command not found: xhilite
+\i (00:06:57) xname_flush 
+\e (00:06:57) No command active
+\i (00:06:57) done 
+\e (00:06:57) No command active
+\i (00:06:57) generaledit 
+\e (00:07:16) Command not found: xhilite
+\i (00:07:16) xname_flush 
+\i (00:07:16) done 
+\i (00:07:16) generaledit 
+\e (00:07:20) Command not found: xdehilite
+\i (00:07:20) xname_flush 
+\i (00:07:20) done 
+\i (00:07:20) generaledit 
+\e (00:07:20) Command not found: xhilite
+\i (00:07:20) xname_flush 
+\i (00:07:20) done 
+\i (00:07:20) generaledit 
+\e (00:07:22) Command not found: xdehilite
+\i (00:07:22) xname_flush 
+\i (00:07:22) done 
+\i (00:07:22) generaledit 
+\i (02:56:15) exit 
+\t (02:56:16)     Journal end - Fri May 05 14:34:40 2017

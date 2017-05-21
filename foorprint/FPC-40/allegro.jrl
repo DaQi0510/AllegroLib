@@ -1,0 +1,16 @@
+\t (00:22:44) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:22:44)     Journal start - Sat Apr 16 13:33:05 2016
+\t (00:22:44)         Host=PSAI-PC User=psai Pid=5392 CPUs=4
+\t (00:22:44) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:22:44) 
+\d (00:22:44) Design opened: E:/cadence lib/foorprint/FPC-40/fpc-40.dra
+\i (00:22:44) generaledit 
+\i (00:22:56) open 
+\i (00:22:58) fillin "menu_cancel"
+\i (00:22:58) generaledit 
+\i (00:23:01) open 
+\i (00:23:14) fillin "E:\cadence lib\foorprint\L-8-8-5\l-8-8-5.dra"
+\i (00:23:14) cd "E:\cadence lib\foorprint\L-8-8-5"
+\t (00:23:14) Opening existing design...
+\i (00:23:14) trapsize 1116
+\t (00:23:14)     Journal end - Sat Apr 16 13:33:35 2016

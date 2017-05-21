@@ -1,0 +1,19 @@
+\t (00:00:04) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:04)     Journal start - Wed Jun 08 12:26:10 2016
+\t (00:00:04)         Host=PSAI-PC User=psai Pid=6684 CPUs=4
+\t (00:00:04) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:04) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: E:/cadence lib/foorprint/BK8000L-MODULE/bk8000l-module.dra
+\i (00:00:06) trapsize 3653
+\i (00:00:06) trapsize 3546
+\i (00:00:06) trapsize 3671
+\i (00:00:06) trapsize 3016
+\i (00:00:06) trapsize 3016
+\i (00:00:07) generaledit 
+\i (00:00:08) open 
+\i (00:00:11) fillin "menu_cancel"
+\i (00:00:11) generaledit 
+\i (00:00:12) new 
+\i (00:00:42) newdrawfillin "1n457-dip.dra" "Package Symbol"
+\t (00:00:42)     Journal end - Wed Jun 08 12:26:48 2016

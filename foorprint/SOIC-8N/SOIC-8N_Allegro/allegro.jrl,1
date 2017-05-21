@@ -1,0 +1,76 @@
+\t (00:00:35) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:35)     Journal start - Wed Mar 08 15:58:39 2017
+\t (00:00:35)         Host=DAQI-PC User=DaQi Pid=11664 CPUs=4
+\t (00:00:35) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:35) 
+\d (00:00:35) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/SOIC-8N/SOIC-8N_Allegro/SOIC-8N.dra
+\i (00:00:35) generaledit 
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in -1.2198 1.7902
+\i (00:00:36) trapsize 719
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in -1.2485 1.8046
+\i (00:00:36) trapsize 359
+\i (00:00:39) show measure 
+\i (00:00:40) pick grid -2.5351 1.9125
+\t (00:00:40) last pick:  -2.5000 1.9000
+\i (00:00:42) pick grid 2.3596 1.9843
+\t (00:00:42) last pick:  2.4000 2.0000
+\i (00:01:15) setwindow text
+\i (00:01:15) close 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) pick grid -3.4982 1.9484
+\t (00:01:16) last pick:  -3.5000 1.9000
+\i (00:01:18) pick grid 3.4737 1.9484
+\t (00:01:18) last pick:  3.5000 1.9000
+\i (00:01:19) pick grid 3.4737 1.9412
+\t (00:01:19) last pick:  3.5000 1.9000
+\i (00:01:23) setwindow text
+\i (00:01:23) close 
+\i (00:01:26) setwindow form.find
+\i (00:01:26) FORM find all_off  
+\i (00:01:27) setwindow pcb
+\i (00:01:27) show measure 
+\i (00:01:29) pick grid -3.5054 1.9268
+\t (00:01:29) last pick:  -3.5000 1.9000
+\i (00:01:31) pick grid 3.4953 1.9268
+\t (00:01:31) last pick:  3.5000 1.9000
+\i (00:01:56) setwindow text
+\i (00:01:56) close 
+\i (00:01:59) setwindow form.find
+\i (00:01:59) FORM find all_off  
+\i (00:02:01) FORM find pins YES 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) pick grid -2.5854 1.9556
+\t (00:02:02) last pick:  -2.6000 2.0000
+\i (00:02:03) pick grid -2.3985 0.6331
+\t (00:02:03) last pick:  -2.4000 0.6000
+\i (00:02:05) setwindow text
+\i (00:02:05) close 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) pick grid -2.4560 1.9125
+\t (00:02:06) last pick:  -2.5000 1.9000
+\i (00:02:07) pick grid 2.4818 2.0347
+\t (00:02:07) last pick:  2.5000 2.0000
+\i (05:54:30) setwindow text
+\i (05:54:30) close 
+\i (05:54:31) setwindow pcb
+\i (05:54:31) zoom out 1 
+\i (05:54:31) setwindow pcb
+\i (05:54:31) zoom out -1.2413 1.8909
+\i (05:54:31) trapsize 719
+\i (05:54:31) zoom out 1 
+\i (05:54:31) setwindow pcb
+\i (05:54:31) zoom out -1.2413 1.8622
+\i (05:54:31) trapsize 1438
+\i (05:54:32) zoom in 1 
+\i (05:54:32) setwindow pcb
+\i (05:54:32) zoom in 1.0515 1.8909
+\i (05:54:32) trapsize 719
+\i (05:54:36) exit 
+\e (05:54:36) Do you want to save the changes you made to SOIC-8N.dra?
+\i (05:54:37) fillin yes 
+\t (05:54:38) Symbol 'soic-8n.psm' created.
+\t (05:54:40)     Journal end - Wed Mar 08 21:52:43 2017

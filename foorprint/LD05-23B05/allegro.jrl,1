@@ -1,0 +1,74 @@
+\t (01:04:31) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (01:04:31)     Journal start - Sun Apr 09 17:21:30 2017
+\t (01:04:31)         Host=DAQI-PC User=DaQi Pid=11444 CPUs=4
+\t (01:04:31) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (01:04:31) 
+\d (01:04:31) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/LD05-23B05/LD05-23B05.dra
+\i (01:04:31) generaledit 
+\i (01:04:33) zoom in 1 
+\i (01:04:33) setwindow pcb
+\i (01:04:33) zoom in 45.5488 9.7383
+\i (01:04:33) trapsize 2541
+\i (01:04:34) zoom in 1 
+\i (01:04:34) setwindow pcb
+\i (01:04:34) zoom in 45.5488 9.7384
+\i (01:04:34) trapsize 1270
+\i (01:04:34) zoom in 1 
+\i (01:04:34) setwindow pcb
+\i (01:04:34) zoom in 45.7266 9.8146
+\i (01:04:34) trapsize 635
+\i (01:04:35) zoom out 1 
+\i (01:04:35) setwindow pcb
+\i (01:04:35) zoom out 47.6702 10.4625
+\i (01:04:35) trapsize 1270
+\i (01:04:35) zoom out 1 
+\i (01:04:35) setwindow pcb
+\i (01:04:35) zoom out 47.6702 10.4625
+\i (01:04:35) trapsize 2541
+\i (01:04:35) zoom out 1 
+\i (01:04:35) setwindow pcb
+\i (01:04:35) zoom out 47.6703 10.4625
+\i (01:04:35) trapsize 5081
+\i (01:04:35) zoom out 1 
+\i (01:04:35) setwindow pcb
+\i (01:04:35) zoom out 61.8090 10.4624
+\i (01:04:35) trapsize 10163
+\i (01:05:00) zoom in 1 
+\i (01:05:00) setwindow pcb
+\i (01:05:00) zoom in 44.8374 16.5854
+\i (01:05:00) trapsize 5081
+\i (01:05:00) zoom in 1 
+\i (01:05:00) setwindow pcb
+\i (01:05:00) zoom in 12.4187 16.5854
+\i (01:05:00) trapsize 2541
+\i (01:05:02) setwindow form.find
+\i (01:05:02) FORM find all_off  
+\i (01:05:04) FORM find pins YES 
+\e (01:05:42) Command not found: xdehilite
+\i (01:05:42) setwindow pcb
+\i (01:05:42) xname_flush 
+\i (01:05:42) done 
+\e (01:05:42) Command not found: xhilite
+\i (01:05:42) xname_flush 
+\e (01:05:42) No command active
+\i (01:05:42) done 
+\e (01:05:42) No command active
+\i (01:05:42) generaledit 
+\i (01:06:05) zoom out 1 
+\i (01:06:05) setwindow pcb
+\i (01:06:05) zoom out 25.3761 19.3802
+\i (01:06:05) trapsize 5081
+\i (01:06:06) zoom out 1 
+\i (01:06:06) setwindow pcb
+\i (01:06:06) zoom out 38.4350 19.2785
+\i (01:06:06) trapsize 10163
+\i (01:06:06) zoom out 1 
+\i (01:06:06) setwindow pcb
+\i (01:06:06) zoom out 97.0732 26.9512
+\i (01:06:06) trapsize 10163
+\i (01:06:11) save 
+\i (01:06:13) fillin yes 
+\t (01:06:16) Symbol 'ld05-23b05.psm' created.
+\i (01:06:16) generaledit 
+\i (01:06:19) exit 
+\t (01:06:20)     Journal end - Sun Apr 09 17:23:19 2017
